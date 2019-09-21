@@ -1,39 +1,74 @@
-Страница курса "Лингвистические данные" 2019/2020
+## Курс "Лингвистические данные", бакалавры 1 курс НИУ ВШЭ
 
-## Welcome to GitHub Pages
+<a href="https://olesar.github.io/lingdata">Страница курса</a> &#129303; <a href="">Оценки за курс</a> &#128523; <a href="">Как выставляются оценки за курс</a> &#128526; <a href="">FAQ</a>
 
-You can use the [editor on GitHub](https://github.com/olesar/lingdata2019/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+#### 1. Вводная лекция. <a href="1LingResources.pdf">Обзор ресурсов для лингвистических исследований</a>    
+* [Презентация](1LingResources.pdf)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### 2. <a href="">Национальный корпус русского языка - 1</a>  
+Материалы:  
+* Плунгян В. А. Зачем нужен Национальный корпус русского языка? (<a href="">читать</a>)  
+* НКРЯ: <a href="http://ruscorpora.ru/new/corpora-intro.html">Что такое Корпус</a> и <a href="http://ruscorpora.ru/new/corpora-structure.html">Состав и структура Корпуса</a> 
 
-### Markdown
+Д/з: Поиск в НКРЯ [ссылка](hw1_RNC.html), дедлайн 21.09.2019   
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### 3. Лекция 2. Электронное представление текста. Форматы HTML, XML, Markdown. Кодировки файлов. Поиск с помощью регулярных выражений     
+<a href="2TextFormats.pdf">Конспект лекции: форматы и кодировки</a>   
+<a href="3RegExp.pdf">Регулярные выражения</a>   
 
-```markdown
-Syntax highlighted code block
+#### 4. <a href="">Анализ корпусных данных</a>. Работа с таблицами. Сортировки, фильтры, сводные таблицы  
 
-# Header 1
-## Header 2
-### Header 3
+Д/з: Личная страничка в html. [Инструкция](hw2-html.md). [Форма-опросник](https://forms.gle/VpkBKkZbUg9tYEr39) - не забудьте заполнить, чтобы мы узнали про ваш репозиторий
 
-- Bulleted
-- List
+#### 5. <a href="">Веб-корпуса (SketchEngine и Skell, Arraneum)</a>. Коллокации. Совместная встречаемость  
 
-1. Numbered
-2. List
+[Д/з](https): Корпусное мини-исследование   
 
-**Bold** and _Italic_ and `Code` text
+#### 6. <a href="">Работа со словарями. Совмещение информации из нескольких источников</a>
+[Задание для самоподготовки](https): Добавление информации из электронных словарей и баз данных. Регулярные выражния.
 
-[Link](url) and ![Image](src)
-```
+\_ 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### <a href="">Экзамен</a>. Защита группового проекта по лингвистическим ресурсам (в конце 1 модуля)
 
-### Jekyll Themes
+\_
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/olesar/lingdata2019/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### 7. Работа с собственным корпусом. Частотные списки, коллокации, ключевые слова (конкордансер AntConc)  
+<a href="">Конспект лекции</a>
 
-### Support or Contact
+#### 8. Контрольная работа. <a href="">Работа с таблицами и регулярными выражениями</a>  
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Проект второго модуля: Создание учебного корпуса
+
+<!-- Д/з: <a href="">Корпусное мини-исследование - 2</a>.
+
+Д/з: [Расшифровка видео](https) (полная).  <a href="">Частотный словарь</a> (файлы LiveCorpus и др.).
+
+#### 12. <a href="">Морфологическая разметка и дизамбигуация</a>  
+[Д/з](): Практикум по снятию омонимии.
+
+
+#### 14. Контрольная работа. <a href="">Итоговая сдача материалов LiveCorpus. Оценка качества разметки корпуса</a>  
+-->
+
+
+
+В разработке программы и материалов курса принимали участие О. Н. Ляшевская, С. Ю. Толдова, Т. А. Архангельский, Б. В. Орехов, Е. Кузьменко, Э. Мустакимова, Е. Грамматчикова, а также учебные ассистенты разных лет.  
+© О. Н. Ляшевская, С. Ю. Толдова, Б. В. Орехов, Е. Кузьменко, Э. Мустакимова, Е. Грамматчикова, 2019 
+<a href="https://www.hse.ru/edu/courses/298695936">Страница курса на сайте НИУ ВШЭ</a>. 
+
+
+# Полезная информация
+
+## Текстовые редакторы
+
+* [Notepad++](https://notepad-plus-plus.org) для Windows
+
+* [Atom](https://atom.io) для macOS и Linux
+
+* [Sublime Text](https) для macOS, Linux и Windows (платный)
+
+* [BBEdit](https) для macOS (бесплатная версия)
+
+Профессиональный текстовый редактор, используемый вами в ходе курса, должен поддерживать использование регулярных выражений и макросов.
+
