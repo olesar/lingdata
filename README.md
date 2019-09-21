@@ -10,7 +10,7 @@
 * Плунгян В. А. Зачем нужен Национальный корпус русского языка? (<a href="http://ruscorpora.ru/new/sbornik2005/02plu.pdf">читать</a>)  
 * НКРЯ: <a href="http://ruscorpora.ru/new/corpora-intro.html">Что такое Корпус</a> и <a href="http://ruscorpora.ru/new/corpora-structure.html">Состав и структура Корпуса</a> 
 
-Д/з: Поиск в НКРЯ [ссылка](hw1_RNC.html), дедлайн 21.09.2019   
+Д/з: Поиск в НКРЯ [ссылка](hw1-RNC.html), дедлайн 21.09.2019   
 
 #### 3. Лекция 2. Электронное представление текста. Форматы HTML, XML, Markdown. Кодировки файлов. Поиск с помощью регулярных выражений     
 <a href="2TextFormats.pdf">Конспект лекции: форматы и кодировки</a>   
