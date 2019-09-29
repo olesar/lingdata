@@ -23,7 +23,9 @@
 
 #### 5. <a href="practicum-web-corpora.md">Веб-корпуса (SketchEngine и Skell, Aranea)</a>. Коллокации. Совместная встречаемость  
 
-[Д/з](https): Корпусное мини-исследование   
+Д/з: Тест по веб-корпусам
+Если Ваша фамилия начинается на А-Л: [Вариант 1](https://docs.google.com/forms/d/e/1FAIpQLSeaOiQlhSEfT46G1MVLixQih39afmC6R1YdGuJRyqfwQzMaVw/viewform?usp=sf_link)
+Если Ваша фамилия начинается на А-Л: [Вариант 2](https://docs.google.com/forms/d/e/1FAIpQLSeHCjYSZN-CMdQ6CxFZN_PCSVOHVazqSEssCn6vwJIleuZDYA/viewform?usp=sf_link)
 
 #### 6. <a href="">Работа со словарями. Совмещение информации из нескольких источников</a>
 [Задание для самоподготовки](https): Добавление информации из электронных словарей и баз данных. Регулярные выражния.
