@@ -30,6 +30,8 @@
 Если Ваша фамилия начинается на М-Я: [Вариант 2](https://docs.google.com/forms/d/e/1FAIpQLSeHCjYSZN-CMdQ6CxFZN_PCSVOHVazqSEssCn6vwJIleuZDYA/viewform?usp=sf_link)
 
 #### 6. <a href="">Работа со словарями. Совмещение информации из нескольких источников</a>
+[Файл для работы на семинаре](https://github.com/olesar/lingdata/blob/gh-pages/data/corpus_freq.xlsx?raw=true)
+
 [Задание для самоподготовки](https): Добавление информации из электронных словарей и баз данных. Регулярные выражния.
 
 \_ 
