@@ -15,7 +15,7 @@
 
 Мы хотим получить общую таблицу, где данные из двух таблиц сведены вместе и их можно сравнить.
 
-![14](https://github.com/ElizavetaKuzmenko/Programming-and-computer-instruments/blob/master/images/14.png) 
+![14](https://github.com/ElizavetaKuzmenko/Programming-and-computer-instruments/blob/master/images/14.png)    
 Внимание, в получившейся таблице могут и должны будут встречаться пустые ячейки!
 
 ## Что нужно делать:
