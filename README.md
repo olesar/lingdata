@@ -32,7 +32,7 @@
 #### 6. [Работа со словарями](practicum_spreadsheets-merging.md). Совмещение информации из нескольких источников [PDF](https://github.com/olesar/lingdata/blob/gh-pages/data/practicum_spreadsheets-merging.pdf)   
 [Файл для работы на семинаре](https://github.com/olesar/lingdata/blob/gh-pages/data/corpus_freq.xlsx?raw=true)
 
-[Домашнее задание:](https://docs.google.com/forms/d/e/1FAIpQLScXT61nzYMxzao8bs3CVfICxcVCrpXE_rPYdD_9oApLIhcQ1w/viewform)
+[Домашнее задание](https://docs.google.com/forms/d/e/1FAIpQLScXT61nzYMxzao8bs3CVfICxcVCrpXE_rPYdD_9oApLIhcQ1w/viewform)
 
 \_ 
 
