@@ -10,9 +10,12 @@
 
 * __Письменная часть__ проекта загружается накануне дня экзамена в [папку](https://drive.google.com/drive/folders/1fPED_9iUmq1aLDft5VynXpWzaunZKtTN?usp=sharing) в виде файла PDF (объем около 2,5 страниц), включает: 
 
-  * краткий отчет о функционале, данных и составителях ресурса  
+  * кто составители ресурса   
+  * какой языковой материал документируется   
+  * для решения каких задачи создавался ресурс, кому он адресован? 
+  * краткий отчет о функционале    
   * примеры двух заданий (со скриншотами), какого рода информацию можно получить по запросу (связаны с возможным исследованием, см. ниже)  
-  * инструкции и литература, посвященная ресурсу   
+  * библиография: ссылки на инструкции и литературу, посвященную ресурсу   
 
 Не забудьте указать название ресурса, его адрес в интернете и имена-фамилии участников экзаменационного проекта с email-ами.
 
@@ -89,28 +92,28 @@
 ### Приложение. Темы проектов 2018 года
 (как пример. Эти ресурсы брать не рекомендуется)
 
-Звуки Му	http://web-corpora.net/zvukimu/
-Corpus of Global Web-Based English (GloWbE) 	https://corpus.byu.edu/glowbe/
-Бурятский корпус	http://web-corpora.net/BuryatCorpus/
-The National Corpus of Polish Cheatsheet	http://nkjp.pl
-The IWeb Corpus	https://corpus.byu.edu/iweb/
-Польско-русский и русско-польский параллельный корпус	http://pol-ros.polon.uw.edu.pl/index.php?id=01&lang=ru
-Шведский корпус	https://spraakbanken.gu.se/korp/
-Русский учебный корпус	http://web-corpora.net/RLC
-Беларускі N-корпус	https://bnkorpus.info/index.html
-The Czech National Corpus	https://www.korpus.cz/
-TheFreeDictionary	https://www.thefreedictionary.com/
-Корпус цыганского языка	http://web-corpora.net/RomaniCorpus/search/?interface_language=ru
-Башкирский поэтический корпус	http://web-corpora.net/bashcorpus/search/
-Рукописные памятники Древней Руси: берестяные грамоты, летописи	http://www.lrc-lib.ru/
-Фонетический корпус эстонского языка	http://www.murre.ut.ee/phonetic-corpus/
-Корпус говора села Роговатка	http://www.parasolcorpus.org/Rogovatka/
-Рассказы о сновидениях и другие корпуса звучащей речи	http://spokencorpora.ru/
-База произношений Forvo	https://forvo.com
-Reverso Context	http://context.reverso.net/перевод/
-Vienna-Oxford International Corpus of English	https://www.univie.ac.at/voice/stats/page/index.php
-The Quranic Arabic Corpus	http://corpus.quran.com
-Roget's Hyperlinked Thesaurus	www.roget.org
-AnCora	http://clic.ub.edu/corpus/
-language goldmine	http://languagegoldmine.com
-Hansard corpus	https://www.hansard-corpus.org/ 
+Звуки Му	http://web-corpora.net/zvukimu/ . 
+Corpus of Global Web-Based English (GloWbE) 	https://corpus.byu.edu/glowbe/   
+Бурятский корпус	http://web-corpora.net/BuryatCorpus/   
+The National Corpus of Polish Cheatsheet	http://nkjp.pl  
+The IWeb Corpus	https://corpus.byu.edu/iweb/  
+Польско-русский и русско-польский параллельный корпус	http://pol-ros.polon.uw.edu.pl/index.php?id=01&lang=ru   
+Шведский корпус	https://spraakbanken.gu.se/korp/   
+Русский учебный корпус	http://web-corpora.net/RLC   
+Беларускі N-корпус	https://bnkorpus.info/index.html   
+The Czech National Corpus	https://www.korpus.cz/   
+TheFreeDictionary	https://www.thefreedictionary.com/   
+Корпус цыганского языка	http://web-corpora.net/RomaniCorpus/search/?interface_language=ru   
+Башкирский поэтический корпус	http://web-corpora.net/bashcorpus/search/   
+Рукописные памятники Древней Руси: берестяные грамоты, летописи	http://www.lrc-lib.ru/   
+Фонетический корпус эстонского языка	http://www.murre.ut.ee/phonetic-corpus/   
+Корпус говора села Роговатка	http://www.parasolcorpus.org/Rogovatka/      
+Рассказы о сновидениях и другие корпуса звучащей речи	http://spokencorpora.ru/      
+База произношений Forvo	https://forvo.com   
+Reverso Context	http://context.reverso.net/перевод/   
+Vienna-Oxford International Corpus of English	https://www.univie.ac.at/voice/stats/page/index.php   
+The Quranic Arabic Corpus	http://corpus.quran.com   
+Roget's Hyperlinked Thesaurus	www.roget.org   
+AnCora	http://clic.ub.edu/corpus/   
+language goldmine	http://languagegoldmine.com   
+Hansard corpus	https://www.hansard-corpus.org/    
