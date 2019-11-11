@@ -112,148 +112,80 @@ Ctrl + Space: проиграть / поставить на паузу. Shift + S
 * Файл -> Сохранить
 и загрузите в репозиторий в папку Day11 (создайте папку, если нужно).
 
-*** Горячие клавиши 
+### Список горячих клавиш и команд
 Alt+d – удалить элемент аннотации  
 Alt+Down – перейти на нижнюю аннотацию  
 Alt+Left – перейти на предыдущую аннотацию  
-Alt+n
- – новый элемент разметки на слое;
-Alt+Right
- – перейти на следующую аннотацию;
-Alt+Shift+c
- – отменить выделение;
-Alt+Up
- – перейти на верхнюю аннотацию;
-Ctrl+/
- – перевести курсор в начало/конец выделения;
-Ctrl+Alt+p
- – настройка печати разметки ELAN;
-Ctrl+Alt+t
- – удалить слой разметки;
-Ctrl+b
- – промотать в начало;
-Ctrl+c
- – копировать элемент аннотации;
-Ctrl+e
- – промотать в конец;
-Ctrl+Left
- – перевести курсор на 40 ms раньше;
-Ctrl+n
- – создать новый проект ELAN;
-Ctrl+o
- – открыть один из старых проектов ELAN;
-Ctrl+PgDown
- – промотать вперед на “страницу”;
-Ctrl+PgUp
- – промотать назад на “страницу”;
-Ctrl+Right
- – перевести курсор на 40 ms позже;
-Ctrl+s
- – сохранить проект ELAN;
-Ctrl+Shift+Left
- – перевести курсор на 10 ms раньше;
-Ctrl+Shift+Right
- – перевести курсор на 10 ms позже;
-Ctrl+Shift+t
- – добавить новый лингвистический тип;
-Ctrl+Space
- – запустить/остановить проигрывание медиа файла;
-Ctrl+t
- – создать новый слой разметки;
-Ctrl+v
- – вставить элемент аннотации;
-Ctrl+w
- – закрыть один из открытых проектов ELAN;
-Ctrl+y
- – повторить действие;
-Ctrl+z
- – отменить действие;
-Edit>Linked files
- (Ctrl+Alt+l) – добавить или удалить медиа файлы в проект ELAN;
-Edit>Preferences>Edit Shortcuts
- – изменить горячие клавиши;
-File>Automatic Backup
- – настройка автосохранения резервных копий проектов ELAN;
-File>Close
- (Ctrl+w) – закрыть один из открытых проектов ELAN;
-File>Export as
- – экспортировать проект ELAN в другие форматы;
-File>Import
- –импортироватьв ELANиз Toolbox, FieldWorks, PRAAT, Transcriber,
-Shoebox, CHAT, Recognizer и CSV-файла;
-File>New
- (Ctrl+n) – создать новый проект ELAN;
-File>Open
- (Ctrl+o) – открыть один из старых проектов ELAN;
-File>Print Preview
- (Ctrl+Alt+p) – настройка печати разметки ELAN;
-File>Save
- (Ctrl+s) – сохранить проект ELAN;
-Help>About ELAN>Citing ELAN...
- – информация о том, как ссылаться на ELAN;
-Options>Annotation Mode
- – перейти в режим аннотации;
-Options>Language
- – изменить язык программной оболочки;
-Options>Segmentation Mode
- – перейти в режим сегментации;
-Options>Transcription Mode
- – перейти в режим транскрипции;
-RButton>Change attributes of 
- – настройка параметров слоя разметки;
-RButton>Conected
- – отключить/включить связь временной оси разметки и аудио;
-RButton>Copy annotation
- (Ctrl+с) – копировать элемент аннотации;
-RButton>Delete annotation
- (Alt+d) – удалить элемент аннотации;
-RButton>Paste annotation
- (Ctrl+v) – вставить элемент аннотации;
-RButton>Save current frame as image
- – сохранить кадр как изображение;
-RButton>Sort tiers
- – сортировать слои разметки;
-RButton>Stereo Chanels>Merged
- – слияние двух аудиопотоков в один;
-RButton>Time ruller visible
- – отключить/включить временную ось;
-RButton>Vertical zoom
- – масштабирование амплитудного диапазона осцилограммы;
-RButton>Visible tiers
- – скрыть один и больше слоев разметки;
-RButton>Zoom
- – масштабирование видео;
-Shift+Left
- – перевести курсор на 1 s раньше;
-Shift+Right
- – перевести курсор на 1 s позже;
-Shift+Space
- – проиграть выделенное;
-Tier>Add new tier
- (Ctrl+t) – создать новый слой разметки;
-Tier>Copy tier
- – копировать слой разметки;
-Tier>Delete tier
- (Ctrl+Alt+t) – удалить слой разметки;
-Type>Add new linguistic type
- (Ctrl+Shift+t) – добавить новый лингвистический тип;
-Type>Change linguistic type
- – изменить лингвистический тип;
-Type>Delete linguistic type
- – удалить лингвистический тип;
-View>Shortcuts
- – посмотреть список всех команд, которые заданы горячими клавишами;
-View>Viewer
- – включить/выключить отображение каждого из окон просмотра;
-Window
- – переключение между разными проектами ELAN
-### Домашнее задание 
-Добавьте слой для каждого говорящего. 
+Alt+n – новый элемент разметки на слое  
+Alt+Right – перейти на следующую аннотацию  
+Alt+Shift+c – отменить выделение  
+Alt+Up – перейти на верхнюю аннотацию  
+Ctrl+/ – перевести курсор в начало/конец выделения  
+Ctrl+Alt+p – настройка печати разметки ELAN  
+Ctrl+Alt+t – удалить слой разметки  
+Ctrl+b – промотать в начало  
+Ctrl+c – копировать элемент аннотации  
+Ctrl+e – промотать в конец  
+Ctrl+Left – перевести курсор на 40 ms раньше  
+Ctrl+n – создать новый проект ELAN  
+Ctrl+o – открыть один из старых проектов ELAN  
+Ctrl+PgDown – промотать вперед на “страницу”  
+Ctrl+PgUp – промотать назад на “страницу”  
+Ctrl+Right – перевести курсор на 40 ms позже  
+Ctrl+s – сохранить проект ELAN  
+Ctrl+Shift+Left – перевести курсор на 10 ms раньше  
+Ctrl+Shift+Right – перевести курсор на 10 ms позже  
+Ctrl+Shift+t – добавить новый лингвистический тип  
+Ctrl+Space – запустить/остановить проигрывание медиа файла  
+Ctrl+t – создать новый слой разметки  
+Ctrl+v – вставить элемент аннотации  
+Ctrl+w – закрыть один из открытых проектов ELAN  
+Ctrl+y – повторить действие  
+Ctrl+z – отменить действие  
+Edit>Linked files (Ctrl+Alt+l) – добавить или удалить медиа файлы в проект ELAN  
+Edit>Preferences>Edit Shortcuts – изменить горячие клавиши  
+File>Automatic Backup – настройка автосохранения резервных копий проектов ELAN  
+File>Close (Ctrl+w) – закрыть один из открытых проектов ELAN  
+File>Export as – экспортировать проект ELAN в другие форматы  
+File>Import – импортироватьв ELANиз Toolbox, FieldWorks, PRAAT, Transcriber, Shoebox, CHAT, Recognizer и CSV-файла;
+File>New (Ctrl+n) – создать новый проект ELAN  
+File>Open (Ctrl+o) – открыть один из старых проектов ELAN  
+File>Print Preview (Ctrl+Alt+p) – настройка печати разметки ELAN  
+File>Save (Ctrl+s) – сохранить проект ELAN  
+Help>About ELAN>Citing ELAN... – информация о том, как ссылаться на ELAN  
+Options>Annotation Mode – перейти в режим аннотации  
+Options>Language – изменить язык программной оболочки  
+Options>Segmentation Mode – перейти в режим сегментации  
+Options>Transcription Mode – перейти в режим транскрипции  
+RButton>Change attributes of  – настройка параметров слоя разметки  
+RButton>Conected – отключить/включить связь временной оси разметки и аудио  
+RButton>Copy annotation (Ctrl+с) – копировать элемент аннотации  
+RButton>Delete annotation (Alt+d) – удалить элемент аннотации  
+RButton>Paste annotation (Ctrl+v) – вставить элемент аннотации  
+RButton>Save current frame as image – сохранить кадр как изображение  
+RButton>Sort tiers – сортировать слои разметки  
+RButton>Stereo Chanels>Merged – слияние двух аудиопотоков в один  
+RButton>Time ruller visible – отключить/включить временную ось  
+RButton>Vertical zoom – масштабирование амплитудного диапазона осцилограммы  
+RButton>Visible tiers – скрыть один и больше слоев разметки  
+RButton>Zoom – масштабирование видео  
+Shift+Left – перевести курсор на 1 s раньше  
+Shift+Right – перевести курсор на 1 s позже  
+Shift+Space – проиграть выделенное  
+Tier>Add new tier (Ctrl+t) – создать новый слой разметки  
+Tier>Copy tier – копировать слой разметки  
+Tier>Delete tier (Ctrl+Alt+t) – удалить слой разметки  
+Type>Add new linguistic type (Ctrl+Shift+t) – добавить новый лингвистический тип  
+Type>Change linguistic type – изменить лингвистический тип  
+Type>Delete linguistic type – удалить лингвистический тип  
+View>Shortcuts – посмотреть список всех команд, которые заданы горячими клавишами  
+View>Viewer – включить/выключить отображение каждого из окон просмотра  
+Window – переключение между разными проектами ELAN  
 
-** Дополнительные материалы   
+
+### Дополнительные материалы   
 * [Краткая инструкция по-русски](http://www.mpi.nl/tools/elan/tp/how-to/ELAN_handout_Russian.pdf) (Brigitte Pakendorf)  
-* [Подробная инструкция по-русски](http://hseinstruments.wikispaces.com/ELAN-UG-ru.pdf)  
-[Подробное официальное руководство](http://www.mpi.nl/corpus/manuals/manual-elan.pdf)  
-[Другие инструкции сторонних разработчиков](http://tla.mpi.nl/tools/tla-tools/elan/thirdparty/#documentation)  
-[Тьюториал ELAN Г.А.Мороза](http://hseinstruments.wikispaces.com/file/view/ELAN%20tutorial%20Moroz.pdf/563679461/ELAN%20tutorial%20Moroz.pdf)  
-[Тьюториал Г.А.Мороза по PRAAT (как визуализировать звуковую дорожку)](http://il.rggu.ru/binary/object_91.1413567032.4359.pdf)  
+* [Подробное официальное руководство](http://www.mpi.nl/corpus/manuals/manual-elan.pdf)  
+* [Другие инструкции сторонних разработчиков](http://tla.mpi.nl/tools/tla-tools/elan/thirdparty/#documentation)  
+* [Тьюториал ELAN Г.А.Мороза](https://www.academia.edu/10058194/Как_пользоваться_ELAN?auto=download)  
+* [Тьюториал Г.А.Мороза по PRAAT (как визуализировать звуковую дорожку)](http://il.rggu.ru/binary/object_91.1413567032.4359.pdf)  
