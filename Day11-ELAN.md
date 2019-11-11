@@ -58,7 +58,7 @@ Example Set [Annotation](http://www.mpi.nl/tools/elan/elan-example3.eaf) [Video]
 ### 2.2. Создайте слои аннотации   
 Проиграйте мультимедиа с помощью центральной кнопки на панели проигрывателя, определите количество участников речевой ситуации (включая и тех, кто говорит на видео "за кадром").
 
-<img src="https://github.com/olesar/lingdata/blob/gh-pages/fig/elan_3.jpg.png" width="338" height="47" />
+<img src="https://github.com/olesar/lingdata/blob/gh-pages/fig/elan_3.jpg" width="338" height="47" />
 
 * Слой -> Добавьте новый слой  
 Для каждого участника создадим слой расшифровки его реплик (для участника А - А-Speech и т.п.). Укажем тип слоя (utterance), участника, аннотатора (себя), остальные характеристики дефолтные (none).
