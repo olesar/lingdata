@@ -61,7 +61,7 @@ Example Set [Annotation](http://www.mpi.nl/tools/elan/elan-example3.eaf) [Video]
 <img src="http://hseinstruments.wikispaces.com/file/view/Screenshot_ELAN2.png/462984104/338x47/Screenshot_ELAN2.png" width="338" height="47" />
 
 * Слой -> Добавьте новый слой  
-Для каждого участника создадим слой расшифровки его реплик (для участника А - А-Speech и т.п.). Укажем тип слоя (speech), участника, аннотатора (себя), остальные характеристики дефолтные (none).
+Для каждого участника создадим слой расшифровки его реплик (для участника А - А-Speech и т.п.). Укажем тип слоя (utterance), участника, аннотатора (себя), остальные характеристики дефолтные (none).
 
 <img src="http://hseinstruments.wikispaces.com/file/view/Screenshot_ELAN9.png/563689575/482x233/Screenshot_ELAN9.png" width="482" height="233" />
 
