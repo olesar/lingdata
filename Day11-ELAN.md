@@ -63,7 +63,7 @@ Example Set [Annotation](http://www.mpi.nl/tools/elan/elan-example3.eaf) [Video]
 * Слой -> Добавьте новый слой  
 Для каждого участника создадим слой расшифровки его реплик (для участника А - А-Speech и т.п.). Укажем тип слоя (utterance), участника, аннотатора (себя), остальные характеристики дефолтные (none).
 
-<img src="https://github.com/olesar/lingdata/blob/gh-pages/fig/elan_4.jpg.png" />
+<img src="https://github.com/olesar/lingdata/blob/gh-pages/fig/elan_4.jpg" />
 
 Если вы размечаете видео, для каждого участника в кадре создадим слой его жестов (для участника А - А-Gestures и т.п.). Укажем тип (gestures), участника, аннотатора, остальное дефолтно. Под каждым слоем жестов создадим слой для интерпретации их значения в речевой ситуации (например, A-GestMeaning). Здесь укажите тип (gesture-meaning) и родительский слой (например, A-Gestures)
 * Слои можно импортировать, так же, как типы: Слой -> Импортировать слой...
@@ -77,7 +77,7 @@ Example Set [Annotation](http://www.mpi.nl/tools/elan/elan-example3.eaf) [Video]
 Кликнув мышкой, установите красную полосу на месте примерного начала микрореплики, а затем, держа нажатой клавишу SHIFT кликните на конце микрореплики (то же можно сделать в режиме drag-and-drop, как будто вы выделяете слова).
 Кликните на появившемся "отрезке" дважды, откроется область для заполнения аннотации.
 
-<img src="https://github.com/olesar/lingdata/blob/gh-pages/fig/elan_5.jpg.png" />  
+<img src="https://github.com/olesar/lingdata/blob/gh-pages/fig/elan_5.jpg" />  
 <img src="https://github.com/olesar/lingdata/blob/gh-pages/fig/elan_6.jpg" />
 <img src="https://github.com/olesar/lingdata/blob/gh-pages/fig/elan_7.jpg" />
 
