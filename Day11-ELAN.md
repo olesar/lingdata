@@ -22,7 +22,7 @@ Example Set [Annotation](http://www.mpi.nl/tools/elan/elan-example3.eaf) [Video]
 * несколько слоев разметки  
 Все можно масштабировать.  
 
-<img src="http://hseinstruments.wikispaces.com/file/view/Screenshot_ELAN5.png/563688823/815x460/Screenshot_ELAN5.png" />
+<img src="https://github.com/olesar/lingdata/blob/gh-pages/fig/elan_1.png" />
 
 #### Слои
 Независимые и связанные с родительским слои: принцип Time Subdivision (например, реплика членится на отдельные слова -- слой не может выходить за границы начала/конца родителя), принцип Symbolic Association (один к одному, копирование временных меток). Представление слоев как иерархии (Вид...). Активация слоев для редактирования (двойным кликом).
