@@ -14,7 +14,7 @@
 
 #### 7. Работа с редактором ELAN. 
 [Практикум](practicum-elan.md) по ELAN  
-Конвертация из/в TextGrid.  
+[Конвертация](practicum-elan-textgrid.md) из/в TextGrid.  
 Д/з 2: [Разметка реплик говорящих в ELAN](hw6-elan.md). Дедлайн пн 25.11.  
 
 
