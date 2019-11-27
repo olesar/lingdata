@@ -52,10 +52,10 @@ ID | Word | Lemma | POS | (Extra) | Features | HeadPosition | Relation | _ | (Ev
 1 | Эээ | эээ | INTJ | _ | _ | _ | _ | _ | @aaa1980f-words#@aaa1980f#109.9#110.241
 2 | ра... | ра... | X | _ | _ | _ | _ | _ | @aaa1980f-words#@aaa1980f#110.241#110.582
 3 | / | / | PUNCT | _ | _ | _ | _ | _ | @aaa1980f-words#@aaa1980f#110.582#110.923
-4 | Ку... | куда ADV | _ | Degree=Pos | _ | _ | _ | @aaa1980f-words#@aaa1980f#110.923#111.264
-5 | куда куда ADV | _ | Degree=Pos | _ | _ | _ | @aaa1980f-words#@aaa1980f#111.264#111.605
-6 | вы вы PRON _ | Case=Nom|Number=Plur|Person=2 | _ | _ | _ | @aaa1980f-words#@aaa1980f#111.605#111.946
-7 | удалились | удалиться | VERB _ | Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid | _ | _ | _ | @aaa1980f-words#@aaa1980f#111.946#112.287
+4 | Ку... | куда | ADV | _ | Degree=Pos | _ | _ | _ | @aaa1980f-words#@aaa1980f#110.923#111.264
+5 | куда | куда | ADV | _ | Degree=Pos | _ | _ | _ | @aaa1980f-words#@aaa1980f#111.264#111.605
+6 | вы | вы | PRON | _ | Case=Nom|Number=Plur|Person=2 | _ | _ | _ | @aaa1980f-words#@aaa1980f#111.605#111.946
+7 | удалились | удалиться | VERB | _ | Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid | _ | _ | _ | @aaa1980f-words#@aaa1980f#111.946#112.287
 8 | ? | ? | PUNCT | _ | _ | _ | _ | _ | @aaa1980f-words#@aaa1980f#112.287#112.628
 
 Проверьте, что у вас правильно определены 
