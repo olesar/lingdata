@@ -1,4 +1,4 @@
-### Практикум AncConc 
+### Практикум AncConc и Voyant Tools
 
 __AntConc__ -- корпусный менеджер
 
@@ -7,14 +7,14 @@ __AntConc__ -- корпусный менеджер
 #### Материал для работы на семинаре
 Анна Каренина: [plain text](https://drive.google.com/file/d/0B6-5pzCmb8MOVFBjajZJUHhNNmM/view?usp=sharing), [xml](https://drive.google.com/file/d/0B6-5pzCmb8MOTktNVlpjaDdOY2M/view?usp=sharing)
 
-Война и Мир, т. 1: [plain text](https://github.com/olesar/lingdata/blob/master/data/TolstoyVojnaIMir1.txt)
+Война и Мир, т. 1: [plain text](https://github.com/olesar/lingdata/blob/gh-pages/data/TolstoyVojnaIMir1.txt)
 
-Тихий Дон: [plain text](https://github.com/olesar/lingdata/blob/master/data/tihiyd.txt) 
+Тихий Дон: [plain text](https://github.com/olesar/lingdata/blob/gh-pages/data/tihiyd.txt) 
 
-СинТагРус: [tokens](https://github.com/olesar/lingdata/blob/master/data/syntagrus_tokens.txt) [lemma_POS](https://github.com/olesar/lingdata/blob/master/data/syntagrus_lemmas.txt) 
+СинТагРус: [tokens](https://github.com/olesar/lingdata/blob/gh-pages/data/syntagrus_tokens.txt) [lemma_POS](https://github.com/olesar/lingdata/blob/gh-pages/data/syntagrus_lemmas.txt) 
 
 LiveCorpus: 
-[tokens](https://github.com/olesar/lingdata/blob/master/data/LiveCorpus2019.txt) [lemma_POS](https://github.com/olesar/lingdata/blob/master/data/LiveCorpus2019_lemmas.txt) 
+[tokens](https://github.com/olesar/lingdata/blob/gh-pages/data/LiveCorpus2019.txt) [lemma_POS](https://github.com/olesar/lingdata/blob/gh-pages/data/LiveCorpus2019_lemmas.txt) 
 
 #### Знакомство с основными функциями
 
