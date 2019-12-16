@@ -3,18 +3,21 @@
 __AntConc__ -- корпусный менеджер
 
 * [Страница программы](http://www.laurenceanthony.net/software/antconc/), где её можно скачать и посмотреть инструкции
-* [Мануал](http://www.laurenceanthony.net/software/antconc/resources/help_AntConc321_english.pdf) (на английском)
-* [Видео-тьюториал от автора](https://www.youtube.com/playlist?list=PLiRIDpYmiC0Ta0-Hdvc1D7hG6dmiS_TZj)
-* [Тьюториал для семинара](https://drive.google.com/file/d/0B6-5pzCmb8MOblpzRXI3elFFeFU/view?usp=sharing)
 
 #### Материал для работы на семинаре
-Анна Каренина: [text](https://drive.google.com/file/d/0B6-5pzCmb8MOVFBjajZJUHhNNmM/view?usp=sharing), [xml](https://drive.google.com/file/d/0B6-5pzCmb8MOTktNVlpjaDdOY2M/view?usp=sharing)
+Анна Каренина: [plain text](https://drive.google.com/file/d/0B6-5pzCmb8MOVFBjajZJUHhNNmM/view?usp=sharing), [xml](https://drive.google.com/file/d/0B6-5pzCmb8MOTktNVlpjaDdOY2M/view?usp=sharing)
 
-Война и Мир: [text](https://github.com/ElizavetaKuzmenko/Programming-and-computer-instruments/blob/master/Vojna%20i%20mir.%20Tom%201.txt)
+Война и Мир, т. 1: [plain text](https://github.com/olesar/lingdata/blob/master/data/TolstoyVojnaIMir1.txt)
 
-Тихий Дон: [text](https://github.com/ElizavetaKuzmenko/Programming-and-computer-instruments/blob/master/tihiyd.txt)
+Тихий Дон: [plain text](https://github.com/olesar/lingdata/blob/master/data/tihiyd.txt) 
+
+СинТагРус: [tokens](https://github.com/olesar/lingdata/blob/master/data/syntagrus_tokens.txt) [lemma_POS](https://github.com/olesar/lingdata/blob/master/data/syntagrus_lemmas.txt) 
+
+LiveCorpus: 
+[tokens](https://github.com/olesar/lingdata/blob/master/data/LiveCorpus2019.txt) [lemma_POS](https://github.com/olesar/lingdata/blob/master/data/LiveCorpus2019_lemmas.txt) 
 
 #### Знакомство с основными функциями
+
 * Загрузите файл, проверьте, что он отображается нормально (вкладка FileView). 
 * Если нужно, настройте кодировку (меню Global Settings - Char Encoding). Чтобы слова с дефисами считались одним токеном, добавьте Connector и Dash в меню Global Settings - Token Definition.
 * Постройте частотный список слов романа (вкладка Word List, нажмите кнопку Start). Кликнув на слово, вы сможете попасть в конкорданс, построенный для этого слова. 
@@ -26,23 +29,64 @@ __AntConc__ -- корпусный менеджер
 
 * Конкордансы и частотные списки можно строить с использованием Regex в Search Term. Например, `\w+ну` найдет любое слово, содержащее -_ну_, но не частицу _ну_. Вот так я предполагаю найти все глаголы на _-ну-_.
 
-<img src="https://raw.githubusercontent.com/pykili/pykili.github.io/master/img/data_antconc/antconc_1.png" width = "800"></img>
+<img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/antconc_1.png" width = "800"></img>
 
 #### Работа с размеченными файлами 
-* Построить частотный список, игнорируя теги xml (см. xml-файл с расширением xhtml. Чтобы его открыть, укажите Все типы файлов). В настройках Global Settings - Tag - Hide tags. 
 
-#### Лемматизация словоформ 
-* Разметьте фрагмент файла "Анны Карениной" с помощью разметчика [UDPipe](http://lindat.mff.cuni.cz/services/udpipe/) (модель Russian-SynTagRus, версия UD 2.0, tokenize and tag, загрузите файл и нажмите "Process input").
+* Постройте частотный список, игнорируя теги xml (см. xml-файл с расширением xhtml. Чтобы его открыть, укажите Все типы файлов). В настройках Global Settings - Tag - Hide tags. 
 
-<img src="https://raw.githubusercontent.com/pykili/pykili.github.io/master/img/data_udpipe/udpipe_rus.png" width = "800"></img>
+#### Ключевые слова (лексические маркеры)
 
-* Отредактируйте разметку, чтобы в файле остались только а) части речи б) леммы в) леммы и части речи вида `дом_NOUN` 
+Чтобы определить характерные для некоторого корпуса слова, мы должны сравнить их частоты в данном корпусе с частотами в другом корпусе - reference corpus. 
 
-В NotePad++ уберите все строки, начинающиеся с символа решетки (`#.*\n`). В остальных строках удалите все, кроме леммы и части речи `^[^\n\t]+\t[^\n\t]+\t([^\n\t]+)\t([^\n\t]+)\t.*$` --> `\1_\2`.
+* Загрузите SynTagRus в качестве reference corpus:  
+Settings > Tool Preferences > Keyword List  
+Use raw files -- Add files
 
-* Постройте частотный список а) частей речи б) лемм в) леммных коллокаций прилагательное+существительное
+<img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/antconc_3.png" width = "800"></img>
+
+* Там же в настройках установите Log-Likelyhood (4-term) в качестве статистической метрики определения keyness и Длину списка в 1000 слов (Keyword Effect Size Threshold). 
+ -- Apply 
+ 
+* Перейдите на вкладку Keyword List 
+ \> Start 
+Для новых файлов AntConc начнет генерацию словника (выдаст предупреждение jump to Word List). 
+В результате на вкладке Keyword List появится список ключевых слов, отсортированный по убыванию метрики Keyness (Log-Likelyhood). 
+
+<img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/antconc_4.png" width = "800"></img>
+
+* Чтобы найти интересующее слово в этом списке, введите его в поле Search Term и нажмите кнопку Search Only (не Start!). Кликнув на слово в списке, можно перейти к конкордансу. 
 
 
-#### Списки char-граммов (дополнительное задание) 
-* Постройте список двубуквенных сочетаний (используя [файл](https://drive.google.com/file/d/0B6-5pzCmb8MONVN6ektrNzJZbDg/view?usp=sharing), сначала изучив, как он устроен)
+#### Частотные списки лемм и списки ключевых слов-леммы  
 
+Чтобы построить частотный список лемм, ваш корпус должен быть лемматизирован (reference corpus, естественно, тоже). Мы будем использовать версии корпусов с подстановкой вместо токена метки леммы и части речи (в формате lemma_POS).
+
+
+#### Самостоятельное исследование корпуса устной спонтанной речи. 
+
+С помощью AntConc постройте частотные списки словоформ и лемм корпуса LiveCorpus. Определите лексические маркеры этого корпуса. (Для сравнения мы снова возьмем SynTagRus). 
+
+
+#### Voyant Tools 
+
+Еще одно полезное онлайн-приложение, которое активно используют литературоведы и историки - [Voyant Tools](https://voyant-tools.org).
+
+* Изучите основные возможности инструмента на примере романов Дж. Остин
+\> Open > Choose a corpus > Austen's Novels 
+
+<img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/voyant-tools_1.png" width = "800"></img>
+
+* Voyant Tools умеет строить облака слов (для всего корпуса и отдельных документов)   
+* показывает распределение частоты слов в документах  
+* показывает свойства документов, такие как длина в словах, среднее количество слов в предложении и т. д. [пример](https://voyant-tools.org/?corpus=austen)  
+* вернувшись на исходную страницу, вы можете загрузить и исследовать свой пользовательский корпус  
+
+<img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/voyant-tools_2.png" width = "800"></img>
+
+#### Полезное  
+* [Мануал](http://www.laurenceanthony.net/software/antconc/resources/help_AntConc321_english.pdf) (на английском)
+* [Видео-тьюториал от автора](https://www.youtube.com/playlist?list=PLiRIDpYmiC0Ta0-Hdvc1D7hG6dmiS_TZj)
+* [Тьюториал для семинара](https://drive.google.com/file/d/0B6-5pzCmb8MOblpzRXI3elFFeFU/view?usp=sharing)
+* Зеркало AntConc (файлы для скачивания программы)  [downloads](https://github.com/olesar/lingdata/tree/gh-pages/data/antconc_downloads/)
+* [Справка](https://voyant-tools.org/docs/#!/guide/start) по Voyant Tools 
