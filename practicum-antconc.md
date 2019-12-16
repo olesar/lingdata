@@ -88,5 +88,4 @@ Use raw files -- Add files
 * [Мануал](http://www.laurenceanthony.net/software/antconc/resources/help_AntConc321_english.pdf) (на английском)
 * [Видео-тьюториал от автора](https://www.youtube.com/playlist?list=PLiRIDpYmiC0Ta0-Hdvc1D7hG6dmiS_TZj)
 * [Тьюториал для семинара](https://drive.google.com/file/d/0B6-5pzCmb8MOblpzRXI3elFFeFU/view?usp=sharing)
-* Зеркало AntConc (файлы для скачивания программы)  [downloads](https://github.com/olesar/lingdata/tree/gh-pages/data/antconc_downloads/)
 * [Справка](https://voyant-tools.org/docs/#!/guide/start) по Voyant Tools 
