@@ -3,7 +3,7 @@
 #### Преподаватели
 
 ##### Ольга Ляшевская  <a href="https://www.hse.ru/staff/olesar">&#127891;</a> 
-<img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/olesar.jpg" style="float:left; margin: 7px 7px 7px 0;"/>  
+<img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/olesar.jpg" />  
 <a href="mailto:olesar@yandex.ru" target="_blank">&#9993; olesar@yandex.ru</a>  
 
 <a href="https://t.me/olesar">&#9997; @olesar</a>  
@@ -12,7 +12,7 @@
 группа 2  
 
 ##### Александр Орлов  <a href="https://www.hse.ru/org/persons/190906991">&#127891;</a>    
-<img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/aorlov.jpeg" style="float:left; margin: 7px 7px 7px 0;"/>  
+<img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/aorlov.jpeg" />  
 <a href="mailto:avorlov_2@edu.hse.ru" target="_blank">&#9993; avorlov_2@edu.hse.ru</a>   
 
 <a href="https://t.me/TheLordOfSiberia">&#9997; @TheLordOfSiberia</a>  
@@ -20,7 +20,7 @@
 группа 3  
 
 ##### Елена Вольф  <a href="">&#127891;</a>  
-<img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/eavolf.jpg" style="float:left; margin: 7px 7px 7px 0;"/>  
+<img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/eavolf.jpg" />  
 <a href="mailto:e.a.volf@yandex.ru" target="_blank">&#9993; e.a.volf@yandex.ru</a>  
 
 <a href="https://t.me/lavendermint">&#9997; @lavendermint</a>  
@@ -31,11 +31,11 @@
 #### Ассистенты  
 
 ##### Анастасия Иванова 
-<img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/aivanova1.jpg" style="float:left; margin: 7px 7px 7px 0;"/>  
+<img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/aivanova1.jpg" />  
 группа 1  
 
 ##### Филипп Бурлаков  
-<img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/phburlakov1.jpg" style="float:left; margin: 7px 7px 7px 0;"/>  
+<img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/phburlakov1.jpg" />  
 группа 2
 
 ##### Влада Баранова 
