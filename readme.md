@@ -30,6 +30,6 @@
 
 2. Принципы составления корпусов. Поиск в корпусе [Слайды](2Corpora.pdf) [Видео](https://disk.yandex.ru/d/lqBUGbEU9X2wZg)  
 
-3. Разметка мультимедийного корпуса  
+3. Разметка мультимедийного корпуса  [Слайды](3MultimediaIntro.pdf) [часть2](3Multimedia.pdf) [Видео](https://disk.yandex.ru/d/lqBUGbEU9X2wZg)   
 
-4. Интерпретация частотных данных    
+4. Интерпретация частотных данных [Слайды](4Quantitative.pdf) [Видео](https://disk.yandex.ru/d/lqBUGbEU9X2wZg)     
