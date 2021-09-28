@@ -1,6 +1,6 @@
 ### Разметка просодии и жестов     
 
-1. Создайте слои вида `gesture@aaa1989f`, `gestMeaning@aaa1989f`, `intonation@aaa1989f`, `pause@@aaa1989f`, `focus@aaa1989f` для каждого говорящего.   
+1. Создайте слои вида `gesture@aaa1989f`, `gestMeaning@aaa1989f`, `intonation@aaa1989f`, `pause@aaa1989f`, `focus@aaa1989f` для каждого говорящего.   
 
 2. Просодия 
 
