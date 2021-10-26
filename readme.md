@@ -21,8 +21,9 @@
 Д/з Cоставление словаря N-грамов [Форма для заполнения](https://forms.gle/3AkeV5T621TgtPeFA)    
 
 #### 6 практикум. UDpipe для грамматической разметки [Конспект](practicum-udpipe.md)  
-Д/з грамматика текстов 18 века   
 
+### 7 практикум. Поиск в корпусах на платформе (No)SketchEngine: Aranea, SkELL [Конспект](practicum-web-corpora.md)  
+Д/з для 1 и 2 группы [Форма для заполнения](https://forms.gle/QJx7Gf2tyMLz4Zmz7)  
 
 ### Лекции
 
