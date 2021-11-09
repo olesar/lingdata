@@ -24,7 +24,7 @@
 Д/з Лексико-грамматическая разметка текстов XVIII-XIX вв. [Инструкция](hw6-lemming.md)   
 
 ### 7 практикум. Поиск в корпусах на платформе (No)SketchEngine: Aranea, SkELL [Конспект](practicum-web-corpora.md)  
-Д/з для 1 и 2 группы [Форма для заполнения](https://forms.gle/QJx7Gf2tyMLz4Zmz7)  
+Д/з [Форма для заполнения](https://forms.gle/QJx7Gf2tyMLz4Zmz7)  
 
 ### Лекции
 
