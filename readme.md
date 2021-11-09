@@ -23,8 +23,11 @@
 #### 6 практикум. UDpipe для грамматической разметки [Конспект](practicum-udpipe.md)  
 Д/з Лексико-грамматическая разметка текстов XVIII-XIX вв. [Инструкция](hw6-lemming.md)   
 
-### 7 практикум. Поиск в корпусах на платформе (No)SketchEngine: Aranea, SkELL [Конспект](practicum-web-corpora.md)  
+#### 7 практикум. Поиск в корпусах на платформе (No)SketchEngine: Aranea, SkELL [Конспект](practicum-web-corpora.md)  
 Д/з [Форма для заполнения](https://forms.gle/QJx7Gf2tyMLz4Zmz7)  
+
+### 8 практикум. Обработка лингвистических данных в табличном редакторе
+Фильтры, сводные таблицы, сортировки, текстовые формулы [Конспект](practicum-spreadsheets.md)
 
 ### Лекции
 
