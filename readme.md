@@ -27,7 +27,8 @@
 Д/з [Форма для заполнения](https://forms.gle/QJx7Gf2tyMLz4Zmz7)  
 
 ### 8 практикум. Обработка лингвистических данных в табличном редакторе
-Фильтры, сводные таблицы, сортировки, текстовые формулы [Конспект](practicum-spreadsheets.md)  [Домашка](https://github.com/olesar/lingdata/blob/gh-pages/hw8.md) -- до 23: 59 19ого ноября.
+Фильтры, сводные таблицы, сортировки, текстовые формулы [Конспект](practicum-spreadsheets.md)  
+[Дз по исследованию с помощью таблиц](https://github.com/olesar/lingdata/blob/gh-pages/hw8.md) -- до 23: 59 19ого ноября.
 
 ### Лекции
 
