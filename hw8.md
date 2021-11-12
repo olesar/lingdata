@@ -1,8 +1,8 @@
 ## Домашнее задание по таблицам
 
 ### Важные ссылки  
-* [почитать про таблицы - базовое] (https://github.com/lizaku/Programming-and-computer-instruments/blob/master/Google-Spreadsheets-basic.md)
-* [почитать про таблицы - небазовое] (https://support.google.com/docs/answer/40608?hl=en&co=GENIE.Platform%3DDesktop)
+* [почитать про таблицы - базовое](https://github.com/lizaku/Programming-and-computer-instruments/blob/master/Google-Spreadsheets-basic.md)
+* [почитать про таблицы - небазовое](https://support.google.com/docs/answer/40608?hl=en&co=GENIE.Platform%3DDesktop)
 * [гугл-форма для заполнения](https://docs.google.com/forms/d/e/1FAIpQLSdpC3Xj3K4lV82PkkFBY68dCJZsTnCLeqyqSQEaTobuzhfmrQ/viewform)
 
 
