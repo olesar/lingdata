@@ -1,6 +1,6 @@
 ### Работа с полевыми данными в FieldWorks  
 
-[Fieldworks](https://software.sil.org/fieldworks/download/) - инструмент для документации языковых и этнографических данных, разрботанный SIL International.
+[Fieldworks](https://software.sil.org/fieldworks/download/) - инструмент для документации языковых и этнографических данных, разработанный SIL International.
 
 ### Создание проекта  
 `File > New FieldWorks project...`  
@@ -41,9 +41,9 @@
 ну ёсть/ ёсть/ и… и зьмеи ёсть/ и ужы ёсь/ асобина вън у Соини/ мы едим/ лянь/ нъ кънях/ ина ляжыть нъ пяску/ длинъя тъкая!// ну мы зъкричали/ ина пабеɣла// ну/ ина пабеɣла/ а етъй/ мужык усьлед за ёю/ ина узила/ хвост кинъла/ съма утикла// [ого!] зьмия/ да!// ну думъить/ хвастом зънимайтись/ а ина утикла!/ [Источник](https://processing.ruscorpora.ru/search.xml?docid=ZGlhbGVjdC9zbW9sZW5zay9wb3ZhcmVua292YTJfem1lamFfMjJfMi54bWw%3D&expand=full&mode=dialect&nodia=1&req=%D0%BB%D1%8F%D0%B6%D1%8B%D1%82%D1%8C&sid=1&sort=i_grtagging&text=lexform): Диалектный корпус НКРЯ [конвертор IPA](https://baltoslav.eu/ipa/)   
 
 ### Полезные ссылки  
-* [Данные для работы](Russian-CL 2021-11-16 1439.fwbackup) - пример проекта для русского языка   
-* [видео]() тьюториала С. Ю. Толдовой  
-* SIL - исходно сокр. Summer Institute of Linguistics [История создания](https://www.sil.org/about/history)  
+* [Данные для работы](https://github.com/olesar/lingdata/blob/gh-pages/data/Russian-CL%202021-11-16%201439.fwbackup) - пример проекта для русского языка   
+* [видео](https://disk.yandex.ru/i/iSw3uDh4kZubXg) тьюториала С. Ю. Толдовой  
+* [История создания](https://www.sil.org/about/history) Summer Institute of Linguistics (SIL)  
 * [обучающие ролики](https://software.sil.org/fieldworks/download/demo-movies/index-of-demo-movies/)  
 * [обучающие ролики](Linguistics Institute Payap University) Linguistics Institute Payap University  
 * [тьюториал](fig/FLEx-HSE-20201124.pdf) А. Архипова в ВШЭ  
