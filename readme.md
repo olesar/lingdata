@@ -37,6 +37,9 @@
 Частотные списки, N-грамы, работа с данными в табличном редакторе   
 [Материалы для подготовки](https://github.com/olesar/lingdata/blob/gh-pages/test-drill.md)
 
+### Экзаменационный проект
+Корпусное исследование в группах по 3-5 человек [Инструкция](https://github.com/olesar/lingdata/blob/gh-pages/exam_project.md)
+
 ### Лекции
 
 1. Вводная лекция. Обзор ресурсов для лингвистических исследований   [Слайды](1LingResources.pdf) [Видео](https://disk.yandex.ru/d/lqBUGbEU9X2wZg)  
