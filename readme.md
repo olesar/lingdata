@@ -2,7 +2,7 @@
 
 <a href="https://olesar.github.io/lingdata">Страница курса</a> &#129303; [Как выставляются оценки](about-grades.md) &#128526; [Инструментарий](about-tools.md) &#128526; [О курсе](about.md)   
 
-#### 1 практикум. GitHub. Поиск в корпусе (НКРЯ). [Инструкция](github_and_RNC.md)
+#### 1 практикум. GitHub. Поиск в корпусе (НКРЯ). [Инструкция](practicum_github_and_RNC1.md)
 
 Д/з: 
 
