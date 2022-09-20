@@ -2,13 +2,18 @@
 
 <a href="https://olesar.github.io/lingdata">Страница курса</a> &#129303; [Ведомость](https://docs.google.com/spreadsheets/d/1FXWlUswvJPkJQn3kYLzIIylI-mJ00ZYFlP9RooAA890/edit?usp=sharing) [Как выставляются оценки](about-grades.md) &#128526; [Инструментарий](about-tools.md) &#128526; [О курсе](about.md)   
 
-#### 1 практикум. GitHub. Поиск в корпусе (НКРЯ). [Инструкция](practicum_github_and_RNC1.md)
+#### 1. GitHub. Поиск в корпусе (НКРЯ). [Практикум 1](practicum_github_and_RNC1.md)
 
 Д/з: [Поиск в НКРЯ](hw1-rnc.md)
 
+#### 2. ELAN. Введение и расшифровка записей. [Практикум 2](practicum-elan.md)  
+
+Д/з: [Расшифровка фрагмента в ELAN](hw2-metadata-transcripts.md)  
+
+
 ### Лекции
 
-1. Вводная лекция. Обзор ресурсов для лингвистических исследований 
+1. Вводная лекция. Обзор ресурсов для лингвистических исследований [Слайды](1LingResources.pdf)  
 
 2. Корпусная лингвистика  
 
