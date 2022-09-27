@@ -8,8 +8,8 @@ ELAN - система для разметки мультимедийных (ау
 
 ### Файлы для работы  
 Скачайте программу ELAN со страницы [Института М. Планка](http://tla.mpi.nl/tools/tla-tools/elan/download/) (основная версия, не Simple!), 
-а также [Образец разметки](http://www.mpi.nl/tools/elan/elan-example3.eaf)  
-На семинаре вы можете размечать свое видео или скачать [Видео сказки](https://github.com/olesar/lingdata/blob/gh-pages/data/FishermanAndFish720.mp4) (оно же в лучшем [разрешении](https://disk.yandex.ru/d/lqBUGbEU9X2wZg)).
+а также [Образец разметки](https://disk.yandex.ru/d/42cxYuFdjylwJA)  
+На семинаре вы можете размечать свое видео или скачать [Видео сказки](https://disk.yandex.ru/i/_ayO0y21p2TI-Q).
 
 ### 1. Знакомство с системой 
 
@@ -180,6 +180,6 @@ Ctrl + Space: проиграть / поставить на паузу. Shift + S
 * [Краткая инструкция по-русски](http://www.mpi.nl/tools/elan/tp/how-to/ELAN_handout_Russian.pdf) (Brigitte Pakendorf)  
 * [Подробное официальное руководство](http://www.mpi.nl/corpus/manuals/manual-elan.pdf)  
 * [Другие инструкции сторонних разработчиков](http://tla.mpi.nl/tools/tla-tools/elan/thirdparty/#documentation)  
-* [Тьюториал ELAN Г.А.Мороза](https://www.academia.edu/10058194/Как_пользоваться_ELAN?auto=download)  
+* [Тьюториал ELAN Г.А.Мороза](https://disk.yandex.ru/i/J0rKW6v9ICI-Lg)  
 * [Тьюториал Г.А.Мороза по PRAAT (как визуализировать звуковую дорожку)](http://il.rggu.ru/binary/object_91.1413567032.4359.pdf)  
 * Видео и аудио для образца с сайта ELAN [Video](http://www.mpi.nl/tools/elan/elan-example1.mpg) [Audio](http://www.mpi.nl/tools/elan/elan-example1.wav)  
