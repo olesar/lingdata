@@ -22,7 +22,7 @@
 
 #### 4. ELAN. Разметка просодии и жестов. [Практикум 4](https://github.com/olesar/lingdata/blob/gh-pages/practicum-elan-intonation.md)
 
-Д/з: [Разметка интонации и жестов в ELAN](https://github.com/olesar/lingdata/blob/gh-pages/old/hw4-elan-gestures.md)
+Д/з: [Разметка просодии и жестов в ELAN](https://github.com/olesar/lingdata/blob/gh-pages/old/hw4-elan-gestures.md)
 
 Дедлайн: 23:59 в день перед семинаром.
 
