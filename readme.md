@@ -30,6 +30,9 @@
 
 ### 5. Работа с текстом в продвинутых текстовых редакторах. Введение в регулярные выражения [Практикум 5](practicum-notepadplusplus.md)
 
+Д/з: [Личная страничка в HTML](https://github.com/olesar/lingdata/blob/gh-pages/hw5-html.md)
+
+#### Проект. (Проект по разметке в ELAN)[https://github.com/olesar/lingdata/blob/gh-pages/project.md]
 
 ### Лекции
 
