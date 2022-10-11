@@ -10,15 +10,10 @@
 
 Д/з: [Расшифровка фрагмента в ELAN](hw2-metadata-transcripts.md)
 
-Дедлайн: 23:59 в день перед семинаром.
-
 #### 3. ELAN. Токенизация, грамматическая разметка, импорт/экспорт. [Практикум 3](https://github.com/olesar/lingdata/blob/gh-pages/practicum-elan-textgrid.md)  
 
 Д/з: [Грамматическая разметка фрагмента в ELAN](https://github.com/olesar/lingdata/blob/gh-pages/old/hw3-elan-tokens.md)
 
-Дедлайн: 23:59 в день перед семинаром.
-
-Т.е. у вторничных групп - понедельник 23:59, у четверговой группы - среда 23:59.
 
 #### 4. ELAN. Разметка просодии и жестов. [Практикум 4](https://github.com/olesar/lingdata/blob/gh-pages/practicum-elan-intonation.md)
 
@@ -32,7 +27,15 @@
 
 Д/з: [Личная страничка в HTML](https://github.com/olesar/lingdata/blob/gh-pages/hw5-html.md)
 
-#### Проект. (Проект по разметке в ELAN)[https://github.com/olesar/lingdata/blob/gh-pages/project.md]
+Дедлайн: 23:59 в день перед семинаром.
+
+Т.е. у вторничных групп - понедельник 23:59, у четверговой группы - среда 23:59.
+
+#### Проект. [Проект по разметке в ELAN](https://github.com/olesar/lingdata/blob/gh-pages/project.md)
+
+Дедлайн: 23:59 в день перед семинаром.
+
+Т.е. у вторничных групп - понедельник 23:59, у четверговой группы - среда 23:59.
 
 ### Лекции
 
