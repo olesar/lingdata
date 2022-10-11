@@ -175,7 +175,7 @@
 3) Пронумеруйте строки от 1 до N в первом столбце.  
 * Правка → Генератор столбца. Установите стартовый номер (1) и шаг нумерации (1).
 
-4) В [UDpipe](https://lindat.mff.cuni.cz/services/udpipe) выберите:  
+4) В [UDpipe](https://lindat.mff.cuni.cz/services/udpipe/) выберите:  
 * модель анализа Model: russian-syntagrus  
 * Actions: Tag and Lemmatize  
 * Advanced options: UDPipe 2, Input: CoNLL-U  
