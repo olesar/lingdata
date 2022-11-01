@@ -13,7 +13,7 @@
 
 Добавьте `-project` в конец названия файла. (например, selkovskoye-project)
 
-Положите обрезанное видео (5-9 минут) в [подпапку своей группы](https://drive.google.com/drive/folders/1iCAniwPEY0LxI_1IujwU4neVvRo4WcRW?usp=sharing).
+Положите обрезанное видео (5-9 минут) в [подпапку своей группы](https://drive.google.com/drive/folders/1iCAniwPEY0LxI_1IujwU4neVvRo4WcRW?usp=sharing). Назовите файл так: название проекта и `-vasha_familija` (например, `selkovskoye-orlova`).
 
 Проверьте, что разметка в вашем eaf файле совпадает с фрагментом, положенным в папку. (Если вы размечали часовое видео, вы можете сдвинуть все аннотации в нужную сторону: раздел "Аннотация">"Сдвинуть все аннотации".)
 
