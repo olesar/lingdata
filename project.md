@@ -11,7 +11,7 @@
 
 ## Чек-лист
 
-Добавьте `-project` в конец названия файла. (например, selkovskoye-project)
+Добавьте `-project` в конец названия файла. (например, `selkovskoye-project`)
 
 Положите обрезанное видео (5-9 минут) в [подпапку своей группы](https://drive.google.com/drive/folders/1iCAniwPEY0LxI_1IujwU4neVvRo4WcRW?usp=sharing). Назовите файл так: название проекта и `-vasha_familija` (например, `selkovskoye-orlova`).
 
