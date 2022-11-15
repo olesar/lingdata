@@ -43,6 +43,8 @@
 
 #### 8. Таблицы. [Практикум 8](https://github.com/olesar/lingdata/blob/gh-pages/practicum-spreadsheets.md)
 
+Д/з: [AntConc](https://docs.google.com/forms/d/e/1FAIpQLSc5c9-V0imW5Zw9GIXI73_3fMRjwEQA3r1vP0g446TXgcA4FA/viewform) + [Сводные таблицы и текстовые формулы](https://docs.google.com/forms/d/e/1FAIpQLSenBWptn1PvnzYZKPntM59oThjGVXQTFpOVx0bVKc1DhJLNdg/viewform)
+
 ### Лекции
 
 1. Вводная лекция. Обзор ресурсов для лингвистических исследований [Слайды](1LingResources.pdf)  
