@@ -41,6 +41,8 @@
 
 #### 7. Конкордансеры. [Практикум 7](practicum-antconc.md)
 
+#### 8. Таблицы. [Практикум 8](https://github.com/olesar/lingdata/blob/gh-pages/practicum-spreadsheets.md)
+
 ### Лекции
 
 1. Вводная лекция. Обзор ресурсов для лингвистических исследований [Слайды](1LingResources.pdf)  
