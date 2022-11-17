@@ -45,6 +45,8 @@
 
 Д/з: [AntConc](https://docs.google.com/forms/d/e/1FAIpQLSc5c9-V0imW5Zw9GIXI73_3fMRjwEQA3r1vP0g446TXgcA4FA/viewform) + [Сводные таблицы и текстовые формулы](https://docs.google.com/forms/d/e/1FAIpQLSenBWptn1PvnzYZKPntM59oThjGVXQTFpOVx0bVKc1DhJLNdg/viewform)
 
+Дедлайн: у вторничных групп - 21 ноября (пн), у четверговой 23 ноября (ср) 23:59.
+
 ### Лекции
 
 1. Вводная лекция. Обзор ресурсов для лингвистических исследований [Слайды](1LingResources.pdf)  
