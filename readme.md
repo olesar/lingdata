@@ -47,6 +47,12 @@
 
 Дедлайн: у вторничных групп - 21 ноября (пн), у четверговой 23 ноября (ср) 23:59.
 
+Подготовка к контрольной ссылка https://github.com/olesar/lingdata/blob/gh-pages/test-drill.md
+
+#### 9. Объединение данных из нескольких источников (таблицы) 
+https://docs.google.com/spreadsheets/d/1uQ9NsoQZmDFrCriWNpMb6TPR2VRFZWYdNl8IVilhAek/edit?usp=sharing
+[Конспект](practicum_spreadsheets-merging.md)
+
 ### Лекции
 
 1. Вводная лекция. Обзор ресурсов для лингвистических исследований [Слайды](1LingResources.pdf)  
