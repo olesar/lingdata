@@ -49,9 +49,9 @@
 
 Подготовка к контрольной ссылка https://github.com/olesar/lingdata/blob/gh-pages/test-drill.md
 
-#### 9. Объединение данных из нескольких источников (таблицы) 
+#### 9. Объединение данных из нескольких источников (таблицы) [Практикум 9](practicum_spreadsheets-merging.md)
 https://docs.google.com/spreadsheets/d/1uQ9NsoQZmDFrCriWNpMb6TPR2VRFZWYdNl8IVilhAek/edit?usp=sharing
-[Практикум 9](practicum_spreadsheets-merging.md)
+
 
 #### 10. Работа с полевыми данными в FieldWorks. [Практикум 10](https://github.com/olesar/lingdata/blob/gh-pages/practicum-fieldworks.md)
 
