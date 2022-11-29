@@ -55,6 +55,8 @@ https://docs.google.com/spreadsheets/d/1uQ9NsoQZmDFrCriWNpMb6TPR2VRFZWYdNl8IVilh
 
 #### 10. Работа с полевыми данными в FieldWorks. [Практикум 10](https://github.com/olesar/lingdata/blob/gh-pages/practicum-fieldworks.md)
 
+### Экзамен [описание](exam_project.md)
+
 ### Лекции
 
 1. Вводная лекция. Обзор ресурсов для лингвистических исследований [Слайды](1LingResources.pdf)  
