@@ -51,7 +51,9 @@
 
 #### 9. Объединение данных из нескольких источников (таблицы) 
 https://docs.google.com/spreadsheets/d/1uQ9NsoQZmDFrCriWNpMb6TPR2VRFZWYdNl8IVilhAek/edit?usp=sharing
-[Конспект](practicum_spreadsheets-merging.md)
+[Практикум 9](practicum_spreadsheets-merging.md)
+
+#### 10. Работа с полевыми данными в FieldWorks. [Практикум 10](https://github.com/olesar/lingdata/blob/gh-pages/practicum-fieldworks.md)
 
 ### Лекции
 
