@@ -1,4 +1,4 @@
-Оценки будут публиковаться [здесь](https://docs.google.com/spreadsheets/d/19RzUA8XdD_P871Pc4X7ARvMcytHkhislrLXNKNk4gGw/edit?usp=sharing), см. вкладку вашей группы.
+Оценки будут публиковаться [здесь](https://docs.google.com/spreadsheets/d/1rsjI5ONFNfiAN2ll7MJ1pyMYcBRJbycAHouHODOOFCo/edit?usp=sharing), см. вкладку вашей группы.
 
 Формула итоговой оценки:  
 0.3 * ДЗ + 0.2 * КР + 0.3 * проект + 0.2 * экзамен  
