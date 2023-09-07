@@ -16,30 +16,24 @@
 
 <a href="https://t.me/Vanessa_Ness">&#9997; @Vanessa_Ness</a>  
 
-ведет семинары в группе 3  
-
 ##### Татьяна Борисовна (Таня) Казакова <a href="https://www.hse.ru/org/persons/225539844">&#127891;</a>  
 <img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/tkazakova.jpeg" />  
 <a href="mailto:tanusha.kazakova@gmail.com" target="_blank">&#9993; tanusha.kazakova@gmail.com</a>  
 
-<a href="https://t.me/tbkazak">&#9997; @tbkazak</a>  
-
-ведет семинары в группе 4  
-
+<a href="https://t.me/tbkazak">&#9997; @tbkazak</a> 
 
 #### Ассистенты  
 
-##### Ирина Орлова 
+##### Ира Орлова 
 <img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/irinaorlova.jpeg" />  
 
 "всегда готова ответить на ваши вопросы!" (Ира, @someonegrt)
 
-##### Стефания Харская  
-<img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/steshakharskaya.jpeg" />  
+##### Влада Термус
 
-"не бойтесь писать в личные сообщения, я не кусаюсь" (Стеша, @steffi_haski)
+##### Оля Чумакова 
 
-
+##### Эльвира Агеева
 
 ### Авторы курса  
 В разработке программы и материалов курса принимали участие О. Н. Ляшевская, С. Ю. Толдова, Т. А. Архангельский, Б. В. Орехов, Е. Кузьменко, Э. Мустакимова, Е. Грамматчикова, Е. Вольф, А. Орлов, а также учебные ассистенты разных лет.  
