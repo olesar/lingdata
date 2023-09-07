@@ -4,6 +4,6 @@
 
 #### 1. GitHub. Markdown и HTML. [Практикум 1](practicum_github.md)
 
-Д/з: [Личная страничка в HTML](https://github.com/olesar/lingdata/blob/gh-pages/hw5-html.md)
+Д/з: [Личная страничка в HTML](https://github.com/olesar/lingdata/blob/gh-pages/hw5-html.md) и [опрос](https://forms.gle/usJAEBqRDJVdQ6DK6)https://forms.gle/usJAEBqRDJVdQ6DK6
 
 ### Лекции
