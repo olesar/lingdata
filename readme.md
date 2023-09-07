@@ -4,6 +4,6 @@
 
 #### 1. GitHub. Поиск в корпусе (НКРЯ). [Практикум 1](practicum_github_and_RNC1.md)
 
-Д/з: [Поиск в НКРЯ](hw1-rnc.md)
+Д/з: [Личная страничка в HTML](https://github.com/olesar/lingdata/blob/gh-pages/hw5-html.md)
 
 ### Лекции
