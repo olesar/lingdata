@@ -7,9 +7,9 @@
 
 * [Atom](https://atom.io) для macOS и Linux
 
-* [Sublime Text](https) для macOS, Linux и Windows (платный)
+* [Sublime Text](https://www.sublimetext.com/) для macOS, Linux и Windows (платный)
 
-* [BBEdit](https) для macOS (бесплатная версия)
+* [BBEdit](https://www.barebones.com/products/bbedit/download.html) для macOS (бесплатная версия)
 
 
 
