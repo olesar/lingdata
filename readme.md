@@ -6,7 +6,7 @@
 
 Д/з: [Личная страничка в HTML](https://github.com/olesar/lingdata/blob/gh-pages/hw5-html.md) и [опрос](https://forms.gle/usJAEBqRDJVdQ6DK6)
 
-#### 2. Работа в текстовом редакторе (notepad++ или bbedit) [Практикум 2](practicum-notepadplusplus.md)
+#### 2. Работа в текстовом редакторе (notepad++ или bbedit). [Практикум 2](practicum-notepadplusplus.md)
 Д/з: [Сбор материалов](https://github.com/olesar/lingdata/blob/gh-pages/hw2-getdata.md)
 
 ### Лекции
