@@ -11,13 +11,15 @@
 Файлы для работы:
 1. [dovlatov3.utf8.txt](https://disk.yandex.ru/d/ln9iiduNMDRWVQ) и [dovlatov3.txt](https://disk.yandex.ru/d/cQIQyNxuh0y8qA)  
 2. [простая html-страничка](https://disk.yandex.ru/d/nJI_mHX6r4ECPw) и [html-страничка c бутстрапом](https://disk.yandex.ru/d/hcnAlxniLNU5fw)  
-3. [tsv-файл из ELAN](https://disk.yandex.ru/d/02JsinlNdLyQSQ)  
+3. [tsv-файл из ELAN](https://disk.yandex.ru/d/02JsinlNdLyQSQ)
+4. [xml-файл из НКРЯ](https://github.com/olesar/lingdata/blob/gh-pages/data/kargopol_xml.xml)
+5. [yaml-файл из Русского Конструктикона](https://github.com/olesar/lingdata/blob/gh-pages/data/yaml_constructicon.yaml)  
 
 ## 1. Кодировки
 
 Типы кодировок текста для русского языка:
 
-* [Unicode](https://ru.wikipedia.org/wiki/%D0%AE%D0%BD%D0%B8%D0%BA%D0%BE%D0%B4) (UTF-8 без цифровой подписи BOM и с нею) - основная кодировка для автоматической обработки текстовых файлов  
+* [Unicode](htts://ru.wikipedia.org/wiki/%D0%AE%D0%BD%D0%B8%D0%BA%D0%BE%D0%B4) (UTF-8 без цифровой подписи BOM и с нею) - основная кодировка для автоматической обработки текстовых файлов  
 * [Cyrillic Windows (cp1251)](https://ru.wikipedia.org/wiki/Windows-1251) - кодировка компании Microsoft для Windows  
 * KOI8-R, DOS, ... - более старые форматы  
 * ASCII (American Standard Code for Information Interchange) - предок всех вышеупомянутых  
