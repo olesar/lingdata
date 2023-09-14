@@ -11,4 +11,4 @@
 
 ### Лекции
 
-1. Кодировки, форматы и структурированное представление текста [1TextFormats1.pdf](2TextFormats.md)
+1. Кодировки, форматы и структурированное представление текста [1TextFormats1.pdf](1TextFormats1.pdf) [2TextFormats.md](2TextFormats.md)
