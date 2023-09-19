@@ -9,7 +9,9 @@
 #### 2. Работа в текстовом редакторе (notepad++ или bbedit). [Практикум 2](practicum-notepadplusplus.md)
 Д/з: [Сбор материалов](https://github.com/olesar/lingdata/blob/gh-pages/hw2-getdata.md)  
 
-#### 3. Разметка мультимедийных данных в редакторе ELAN. [Практикум 3](practicum-elan.md) [инструкция](http://www.mpi.nl/tools/elan/tp/how-to/ELAN_handout_Russian.pdf)
+#### 3. Разметка мультимедийных данных в редакторе ELAN. [Практикум 3](practicum-elan.md)
+
+[инструкция по работе с elan](http://www.mpi.nl/tools/elan/tp/how-to/ELAN_handout_Russian.pdf)
 
 ### Лекции
 
