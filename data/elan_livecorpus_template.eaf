@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2023-09-21T12:27:31+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-09-20T15:03:09+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
             MEDIA_URL="file:///Users/irina/Downloads/selkovskoye.mp4"
-            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../../../../../irina/Downloads/selkovskoye.mp4"/>
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../../../../../../irina/Downloads/selkovskoye.mp4"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:c94772bb-4b9f-48e3-9004-5bbb228c1dab</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">3077</PROPERTY>
     </HEADER>
@@ -1933,7 +1933,7 @@
         </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="irinaorlovahse" LINGUISTIC_TYPE_REF="words"
-        PARENT_REF="text@aim1984m" PARTICIPANT="@aim1984m" TIER_ID="words@aim1984m">
+        PARENT_REF="text@aim1984m" PARTICIPANT="@aim1984m" TIER_ID="token@aim1984m">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a87"
                 TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
@@ -2872,7 +2872,7 @@
         </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="irinaorlovahse" DEFAULT_LOCALE="ru"
-        LINGUISTIC_TYPE_REF="part of speech" PARENT_REF="words@aim1984m"
+        LINGUISTIC_TYPE_REF="part of speech" PARENT_REF="token@aim1984m"
         PARTICIPANT="@aim1984m" TIER_ID="pos@aim1984m">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a170" ANNOTATION_REF="a87" CVE_REF="cveid_0ed9a753-9920-4544-822b-a2ccbf4bae5b">
@@ -3655,9 +3655,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="irinaorlovahse"
-        LINGUISTIC_TYPE_REF="utterance_type" PARENT_REF="text@aim1984m"
-        PARTICIPANT="@aim1984m" TIER_ID="eduType@aim1984m">
+    <TIER ANNOTATOR="irinaorlovahse" LINGUISTIC_TYPE_REF="intonation"
+        PARENT_REF="text@aim1984m" PARTICIPANT="@aim1984m" TIER_ID="eduType@aim1984m">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a525" ANNOTATION_REF="a28">
                 <ANNOTATION_VALUE>восклицание</ANNOTATION_VALUE>
@@ -5257,9 +5256,6 @@
     <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
         CONTROLLED_VOCABULARY_REF="Gesture organs"
         GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_organs" TIME_ALIGNABLE="false"/>
-    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
-        CONTROLLED_VOCABULARY_REF="utterance types"
-        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="utterance_type" TIME_ALIGNABLE="false"/>
     <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
     <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
     <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
@@ -5271,56 +5267,6 @@
     <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
     <CONSTRAINT
         DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
-    <CONTROLLED_VOCABULARY CV_ID="Gesture organs">
-        <DESCRIPTION LANG_REF="und">Active gesture organs</DESCRIPTION>
-        <CV_ENTRY_ML CVE_ID="cveid_7e03fecd-0210-422c-bd0c-15bb15b7ac84">
-            <CVE_VALUE DESCRIPTION="any finger or their combination" LANG_REF="und">finger</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_6782b87d-5262-4eb3-a71c-7e0547a8f54f">
-            <CVE_VALUE
-                DESCRIPTION="hand or parts of hand excluding fingers" LANG_REF="und">hand</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_0b9155f6-f9b0-4a7b-acf3-be5c1365cdaa">
-            <CVE_VALUE DESCRIPTION="face, nose, ear, temple and others" LANG_REF="und">head</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_a830eef2-fdbd-4e6d-9eb6-31813835d647">
-            <CVE_VALUE
-                DESCRIPTION="neck, shoulders, feet, belly and other parts of body" LANG_REF="und">body</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_b039cf46-9573-44d6-a746-dc9184bbaf2f">
-            <CVE_VALUE LANG_REF="und">finger, hand</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_5672ba52-6a34-46e9-808b-c6a924fa504b">
-            <CVE_VALUE LANG_REF="und">finger, head</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_ecec6163-5b79-4511-86a4-278980d667e4">
-            <CVE_VALUE LANG_REF="und">finger, body</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_1156a6a8-4a6f-4f5f-8e09-ee23ae563975">
-            <CVE_VALUE LANG_REF="und">hand, head</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_19e200ba-5fe5-4871-b9bb-b67138be975e">
-            <CVE_VALUE LANG_REF="und">hand, body</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_6103d27b-af2a-4807-ae55-573e43acb9ca">
-            <CVE_VALUE LANG_REF="und">head, body</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_f85c17da-777a-4863-86e3-c66d69546328">
-            <CVE_VALUE LANG_REF="und">finger, hand, head</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_6da8cec9-1d67-40f9-be48-03d441bc07f6">
-            <CVE_VALUE LANG_REF="und">finger, hand, body</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_491d6140-24f4-47df-bdfe-f10ce6123042">
-            <CVE_VALUE LANG_REF="und">finger, head, body</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_c188ed34-246e-4bc4-91e4-ec545670dff6">
-            <CVE_VALUE LANG_REF="und">hand, head, body</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_d240ec98-4b97-430d-9a17-bd28ad672add">
-            <CVE_VALUE LANG_REF="und">finger, hand, head, body</CVE_VALUE>
-        </CV_ENTRY_ML>
-    </CONTROLLED_VOCABULARY>
     <CONTROLLED_VOCABULARY CV_ID="POS">
         <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
         <CV_ENTRY_ML CVE_ID="cveid_0ed9a753-9920-4544-822b-a2ccbf4bae5b">
@@ -5387,25 +5333,54 @@
             <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
         </CV_ENTRY_ML>
     </CONTROLLED_VOCABULARY>
-    <CONTROLLED_VOCABULARY CV_ID="utterance types">
-        <DESCRIPTION LANG_REF="und"/>
-        <CV_ENTRY_ML CVE_ID="cveid_a95bd152-8665-4681-a48d-4c5ec36da941">
-            <CVE_VALUE LANG_REF="und">вопрос да/нет</CVE_VALUE>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture organs">
+        <DESCRIPTION LANG_REF="und">Active gesture organs</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_7e03fecd-0210-422c-bd0c-15bb15b7ac84">
+            <CVE_VALUE DESCRIPTION="any finger or their combination" LANG_REF="und">finger</CVE_VALUE>
         </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_afd00f5d-1ed6-4eb8-82d1-3b882176533e">
-            <CVE_VALUE LANG_REF="und">вопрос частный</CVE_VALUE>
+        <CV_ENTRY_ML CVE_ID="cveid_6782b87d-5262-4eb3-a71c-7e0547a8f54f">
+            <CVE_VALUE
+                DESCRIPTION="hand or parts of hand excluding fingers" LANG_REF="und">hand</CVE_VALUE>
         </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_194d3399-5153-4d87-a206-b55860b04fb5">
-            <CVE_VALUE LANG_REF="und">ответ</CVE_VALUE>
+        <CV_ENTRY_ML CVE_ID="cveid_0b9155f6-f9b0-4a7b-acf3-be5c1365cdaa">
+            <CVE_VALUE DESCRIPTION="face, nose, ear, temple and others" LANG_REF="und">head</CVE_VALUE>
         </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_54789b1e-feb7-4afb-aa10-140e8c4d7587">
-            <CVE_VALUE LANG_REF="und">повествование</CVE_VALUE>
+        <CV_ENTRY_ML CVE_ID="cveid_a830eef2-fdbd-4e6d-9eb6-31813835d647">
+            <CVE_VALUE
+                DESCRIPTION="neck, shoulders, feet, belly and other parts of body" LANG_REF="und">body</CVE_VALUE>
         </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_eb01700d-f752-4782-b35e-4757f7e58f43">
-            <CVE_VALUE LANG_REF="und">побуждение</CVE_VALUE>
+        <CV_ENTRY_ML CVE_ID="cveid_b039cf46-9573-44d6-a746-dc9184bbaf2f">
+            <CVE_VALUE LANG_REF="und">finger, hand</CVE_VALUE>
         </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_a786f64d-956c-4b2a-bc2e-09149dcdbf50">
-            <CVE_VALUE LANG_REF="und">другое</CVE_VALUE>
+        <CV_ENTRY_ML CVE_ID="cveid_5672ba52-6a34-46e9-808b-c6a924fa504b">
+            <CVE_VALUE LANG_REF="und">finger, head</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_ecec6163-5b79-4511-86a4-278980d667e4">
+            <CVE_VALUE LANG_REF="und">finger, body</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_1156a6a8-4a6f-4f5f-8e09-ee23ae563975">
+            <CVE_VALUE LANG_REF="und">hand, head</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_19e200ba-5fe5-4871-b9bb-b67138be975e">
+            <CVE_VALUE LANG_REF="und">hand, body</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_6103d27b-af2a-4807-ae55-573e43acb9ca">
+            <CVE_VALUE LANG_REF="und">head, body</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f85c17da-777a-4863-86e3-c66d69546328">
+            <CVE_VALUE LANG_REF="und">finger, hand, head</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_6da8cec9-1d67-40f9-be48-03d441bc07f6">
+            <CVE_VALUE LANG_REF="und">finger, hand, body</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_491d6140-24f4-47df-bdfe-f10ce6123042">
+            <CVE_VALUE LANG_REF="und">finger, head, body</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c188ed34-246e-4bc4-91e4-ec545670dff6">
+            <CVE_VALUE LANG_REF="und">hand, head, body</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_d240ec98-4b97-430d-9a17-bd28ad672add">
+            <CVE_VALUE LANG_REF="und">finger, hand, head, body</CVE_VALUE>
         </CV_ENTRY_ML>
     </CONTROLLED_VOCABULARY>
 </ANNOTATION_DOCUMENT>
