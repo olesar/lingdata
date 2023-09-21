@@ -12,6 +12,7 @@
 #### 3. Разметка мультимедийных данных в редакторе ELAN. [Практикум 3](practicum-elan.md)
 
 [инструкция по работе с elan](http://www.mpi.nl/tools/elan/tp/how-to/ELAN_handout_Russian.pdf)
+Д/з: [Разметка реплик](https://github.com/olesar/lingdata/blob/gh-pages/hw3-metadata-transcripts.md)
 
 ### Лекции
 
