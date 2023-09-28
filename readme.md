@@ -12,9 +12,15 @@
 #### 3. Разметка мультимедийных данных в редакторе ELAN. [Практикум 3](practicum-elan.md)
 
 [инструкция по работе с elan](http://www.mpi.nl/tools/elan/tp/how-to/ELAN_handout_Russian.pdf)
+
 Д/з: [Разметка реплик](https://github.com/olesar/lingdata/blob/gh-pages/hw3-metadata-transcripts.md)
+
+
+#### 4. Разметка мультимедийных данных в редакторе ELAN. [Практикум 4](practicum-elan-textgrid.md)
+
+Д/з: [Токенизация и морфологическая разметка](https://github.com/olesar/lingdata/blob/gh-pages/hw4-elan-tokens.md)
 
 ### Лекции
 
-1. Кодировки, форматы и структурированное представление текста [1TextFormats1.pdf](1TextFormats1.pdf) [2TextFormats.md](2TextFormats.md) [видео](https://disk.yandex.ru/i/ziADAK8GTQnDVA)
+1. Кодировки, форматы и структурированное представление текста [презентация1.pdf](1TextFormats1.pdf), [презентация2.md](2TextFormats.md) [видео](https://disk.yandex.ru/i/ziADAK8GTQnDVA)
 2. Лингвистические ресурсы для лингвистических исследований [презентация](2LingResources.pdf) 
