@@ -18,7 +18,11 @@
 
 #### 4. Разметка мультимедийных данных в редакторе ELAN. [Практикум 4](practicum-elan-textgrid.md)
 
-Д/з: [Токенизация и морфологическая разметка](https://github.com/olesar/lingdata/blob/gh-pages/hw4-elan-tokens.md)
+Д/з: [Токенизация и морфологическая разметка](https://github.com/olesar/lingdata/blob/gh-pages/hw4-elan-tokens.md)  
+
+#### 5. Разметка функций ЭДЕ и жестов в ELAN. [practicum-elan-intonation.md]  
+
+
 
 ### Лекции
 
