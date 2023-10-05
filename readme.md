@@ -20,7 +20,7 @@
 
 Д/з: [Токенизация и морфологическая разметка](https://github.com/olesar/lingdata/blob/gh-pages/hw4-elan-tokens.md)  
 
-#### 5. Разметка функций ЭДЕ и жестов в ELAN. [practicum-elan-intonation.md]  
+#### 5. Разметка функций ЭДЕ и жестов в ELAN. [Практикум 5][practicum-elan-intonation.md]  
 
 
 
