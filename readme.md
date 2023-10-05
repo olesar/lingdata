@@ -20,9 +20,11 @@
 
 Д/з: [Токенизация и морфологическая разметка](https://github.com/olesar/lingdata/blob/gh-pages/hw4-elan-tokens.md)  
 
-#### 5. Разметка функций ЭДЕ и жестов в ELAN. [Практикум 5](practicum-elan-intonation.md)  
+#### 5. Разметка функций ЭДЕ и жестов в ELAN. [Практикум 5](practicum-elan-intonation.md)
 
-### (Проект)[https://github.com/olesar/lingdata/blob/gh-pages/project.md]
+Д/з: [разметка жестикуляции, интонации и лемм](https://github.com/olesar/lingdata/blob/gh-pages/hw5-elan-gestures.md)
+
+### [Проект](https://github.com/olesar/lingdata/blob/gh-pages/project.md)
 
 
 
