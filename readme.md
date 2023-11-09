@@ -27,7 +27,8 @@
 ### [Проект](https://github.com/olesar/lingdata/blob/gh-pages/project.md)
 
 
-#### 6. Поиск в корпусе. Выборки. Коллокации. CQL [Практикум 6](practicum-web-corpora.md)  
+#### 6. Поиск в корпусе. Выборки. Коллокации. CQL [Практикум 6](practicum-web-corpora.md)
+Д/з: [Aranea и НКРЯ](https://forms.gle/VweaNBVh3uAVC7GE6)
 
 ### Лекции
 
