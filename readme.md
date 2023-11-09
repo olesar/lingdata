@@ -27,9 +27,11 @@
 ### [Проект](https://github.com/olesar/lingdata/blob/gh-pages/project.md)
 
 
+#### 6. Поиск в корпусе. Выборки. Коллокации. CQL [Практикум 6](practicum-web-corpora.md)  
 
 ### Лекции
 
 1. Кодировки, форматы и структурированное представление текста [презентация1.pdf](1TextFormats1.pdf), [презентация2.md](2TextFormats.md), [видео](https://disk.yandex.ru/i/ziADAK8GTQnDVA)
 2. Лингвистические ресурсы для лингвистических исследований [презентация](2LingResources.pdf)
-3. Мультимедийные данные для лингвистических исследований [презентация](3Multimedia.pdf)  
+3. Мультимедийные данные для лингвистических исследований [презентация](3Multimedia.pdf)
+4. Частотные данные на основе корпусов и их интерпретация [презентация](https://docs.google.com/presentation/d/1VAbIZPaFMkKdTA0xQBGEUv4Q8OAz5cRZb6YNr6JpUFc/edit?usp=sharing)
