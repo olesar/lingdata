@@ -30,6 +30,8 @@
 #### 6. Поиск в корпусе. Выборки. Коллокации. CQL [Практикум 6](practicum-web-corpora.md)
 Д/з: [Aranea и НКРЯ](https://forms.gle/VweaNBVh3uAVC7GE6)
 
+#### 7. [Практикум 7](https://github.com/olesar/lingdata/blob/gh-pages/practicum-antconc.md)
+
 ### Лекции
 
 1. Кодировки, форматы и структурированное представление текста [презентация1.pdf](1TextFormats1.pdf), [презентация2.md](2TextFormats.md), [видео](https://disk.yandex.ru/i/ziADAK8GTQnDVA)
