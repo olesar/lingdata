@@ -31,7 +31,7 @@
 Д/з: [Aranea и НКРЯ](https://forms.gle/VweaNBVh3uAVC7GE6)
 
 #### 7. Конкордансеры. AntConc. [Практикум 7](https://github.com/olesar/lingdata/blob/gh-pages/practicum-antconc.md)
-Д/з: AntConc
+Д/з: [AntConc](https://forms.gle/Tp1a37vr4U1FLwNAA)
 
 ### Лекции
 
