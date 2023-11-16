@@ -30,7 +30,8 @@
 #### 6. Поиск в корпусе. Выборки. Коллокации. CQL [Практикум 6](practicum-web-corpora.md)
 Д/з: [Aranea и НКРЯ](https://forms.gle/VweaNBVh3uAVC7GE6)
 
-#### 7. [Практикум 7](https://github.com/olesar/lingdata/blob/gh-pages/practicum-antconc.md)
+#### 7. AntConc. [Практикум 7](https://github.com/olesar/lingdata/blob/gh-pages/practicum-antconc.md)
+Д/з: AntConc
 
 ### Лекции
 
