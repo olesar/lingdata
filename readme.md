@@ -34,7 +34,9 @@
 Д/з: [AntConc](https://forms.gle/Tp1a37vr4U1FLwNAA)
 
 #### 8. Анализ выдачи из корпуса (работа в табличном редакторе) [Практикум 8](practicum-spreadsheets.md) 
-Д/з: 
+Д/з: [Сводные таблицы](https://forms.gle/nsUKvWrSQELbi9gJA)
+
+### Экзамен - [описание](exam_project.md)
 
 ### Лекции
 
