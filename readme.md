@@ -44,3 +44,5 @@
 2. Лингвистические ресурсы для лингвистических исследований [презентация](2LingResources.pdf)
 3. Мультимедийные данные для лингвистических исследований [презентация](3Multimedia.pdf)
 4. Частотные данные на основе корпусов и их интерпретация [презентация](https://docs.google.com/presentation/d/1VAbIZPaFMkKdTA0xQBGEUv4Q8OAz5cRZb6YNr6JpUFc/edit?usp=sharing)
+
+* [Литература](about-reading.md)  
