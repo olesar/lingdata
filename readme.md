@@ -33,7 +33,7 @@
 #### 7. Конкордансеры. AntConc. [Практикум 7](https://github.com/olesar/lingdata/blob/gh-pages/practicum-antconc.md)
 Д/з: [AntConc](https://forms.gle/Tp1a37vr4U1FLwNAA)
 
-#### 8. Анализ выдачи из корпуса (работа в табличном редакторе) [Практикум 8](practicum-spreadsheets.md) 
+#### 8. Анализ выдачи из корпуса (работа в табличном редакторе) [Практикум 8](practicum-spreadsheets.md) [видео](https://disk.yandex.ru/i/v2T4N3AaXPS8kQ)
 Д/з: [Сводные таблицы](https://forms.gle/nsUKvWrSQELbi9gJA)
 
 ### Экзамен - [описание](exam_project.md)
