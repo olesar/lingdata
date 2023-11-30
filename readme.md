@@ -36,6 +36,12 @@
 #### 8. Анализ выдачи из корпуса (работа в табличном редакторе) [Практикум 8](practicum-spreadsheets.md) [видео](https://disk.yandex.ru/i/v2T4N3AaXPS8kQ)
 Д/з: [Сводные таблицы](https://forms.gle/nsUKvWrSQELbi9gJA)
 
+#### 9. Объединение данных из нескольких таблиц. Интерпретация значимости наблюдений. [Практикум 9](practicum-spreadsheets-merging.md) [Котики VS. роботы](https://docs.google.com/spreadsheets/d/1n73pj4khl5ze9fyyC6QVYDDLFPlrWbXT4YY0_aiPSBo/edit?usp=sharing)
+
+#### Контрольная работа 
+
+#### 10. Fieldworks 
+
 ### Экзамен - [описание](exam_project.md)
 
 ### Лекции
