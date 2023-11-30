@@ -137,7 +137,8 @@ _I highly disagree with the opinion._
 
 ## BNC на платформе NoSketchEngine
 
-<a href="https://www.english-corpora.org/bnc/">British National Corpus</a>
+[British National Corpus](https://www.english-corpora.org/bnc/)  
+
 Полезные функции:  
 * Compare  
 
