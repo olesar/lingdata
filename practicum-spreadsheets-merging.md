@@ -8,83 +8,88 @@
 
 Вот ссылка на [гугл-таблицу](https://docs.google.com/spreadsheets/d/1qIqBBzcIM0g2FFKffCGuEhTwqbrIYQuwsoivit-Zg6g/edit?usp=sharing), сделайте себе копию или скачайте.
 
+Таблица с данными о произношении `sounds`
+![1](https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/merge_2.png) 
+Таблица с данными о владении английским `english`
+![2](https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/merge_3.png) 
+
 Мы хотим получить общую таблицу, где данные из двух таблиц сведены вместе и можно сделать вывод о влиянии социолингвистических параметров (особенно уровня владения английским языком) на произношение переднеязычных зубных согласных [т], [с], [н] перед ударным е в именах собственных англоязычного происхождения.
 
-![14](https://github.com/ElizavetaKuzmenko/Programming-and-computer-instruments/blob/master/images/14.png)    
+![3](https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/merge_1.png)    
 Внимание, в получившейся таблице могут и должны будут встречаться **пустые ячейки**!
 
 ## Что нужно делать:
 **Шаг 1.**
 
-Добавим в таблицу `CorST` столбец "Номер строки, на которой слово стоит в RLC". 
+Добавим в таблицу `sounds` столбец c номером строки, на которой информант (id) стоит в таблице english". 
 
-![3](https://github.com/ElizavetaKuzmenko/Programming-and-computer-instruments/blob/master/images/3.png)
+![4](https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/merge_4.png)
 
 **Шаг 2.**
 
-Затем для каждого слова в таблице `CorST` нужно:
-  * найти его в столбце "Слово" таблицы `RLC`
+Затем для каждого информанта в таблице `sounds` нужно:
+  * найти его в столбце "id" таблицы `english`
   * определить номер строки, на которой он стоит
-  * записать этот номер в столбец "Номер..." таблицы `CorST`
+  * записать этот номер в столбец "Номер..." таблицы `sounds`
   
 Сделаем это с помощью формулы `=ПОИСКПОЗ(...)` (в английской версии `=MATCH(...)`).   
 В Excel эту формулу можно найти на вкладке Формулы в разделе "Ссылки и массивы".   
 
-![4](https://github.com/ElizavetaKuzmenko/Programming-and-computer-instruments/blob/master/images/4.png)
+![5](https://github.com/ElizavetaKuzmenko/Programming-and-computer-instruments/blob/master/images/4.png)
 
 В окне вставки формул укажем три аргумента:
-  * Искомое_значение: кликните на ячейку с лексемой слева.
-  * Просматриваемый массив: затем перейдите на лист таблицы `RLC` и выделите столбец "Слово"
+  * Искомое_значение: кликните на ячейку с id информанта.
+  * Просматриваемый массив: затем перейдите на лист таблицы `english` и выделите столбец "id"
   * Тип сопоставления: 0 (обозначает точное совпадение).
 
 Нажмем OK.
 
-![5](https://github.com/ElizavetaKuzmenko/Programming-and-computer-instruments/blob/master/images/5.png)
+![6](https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/merge_5.png)
 
-В ячейке должен отобразиться номер строки, на которой искомое слово стоит в таблице `RLC`. Проверьте (с помощью поиска), что номер правильный.
+В ячейке должен отобразиться номер строки, на которой искомое слово стоит в таблице `english`. Проверьте (с помощью поиска), что номер правильный.
 
 Скопируем ячейку с формулой и вставим ее в том же столбце напротив всех остальных слов (можно дважды кликнуть на правый нижний угол заполненной ячейки, чтобы ее формула автоматически растянулась на весь столбец; выделение можно также растянуть на весь диапазон до конца таблицы, пользуясь комбинацией горячих клавиш `Shift` + `Ctrl` + стрелка вниз). 
 
-![6](https://github.com/ElizavetaKuzmenko/Programming-and-computer-instruments/blob/master/images/6.png)
+![7](https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/merge_6.png)
 
 **NB** Пересчет значений ячеек может занять некоторое время, особенно для больших таблиц.
 Если после пересчета значений в каких-то ячейках появится #Н/Д (в английской версии - #N/A), это означает, что строка с таким словом не найдена.
 
 **Шаг 3**
 
-Добавим в таблицу `CorST` столбец "IPM-RLC". 
+Добавим в таблицу `sounds` столбец "Владение английским". 
 
-![7](https://github.com/ElizavetaKuzmenko/Programming-and-computer-instruments/blob/master/images/7.png)
+![8](https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/merge_7.png)
 
 **Шаг 4**
 
 На вкладке Формулы в разделе "Ссылки и массивы" найдем формулу "ИНДЕКС" (в английской версии "INDEX"), и в открывшемся мастере формулы:
    * выберите первую опцию
 
-![8](https://github.com/ElizavetaKuzmenko/Programming-and-computer-instruments/blob/master/images/8.png)
+![9](https://github.com/ElizavetaKuzmenko/Programming-and-computer-instruments/blob/master/images/8.png)
 
-   * Массив: перейдите на лист `RLC` и выделите столбец с IPM.
-   * Номер_строки: поставьте курсор на поле "Номер..." в таблице `CorST`
+   * Массив: перейдите на лист `english` и выделите столбец с данными о владении английским.
+   * Номер_строки: поставьте курсор на поле "Номер..." в таблице `sounds`
    * Номер_столбца: оставьте пустым, так как мы работаем с одним столбцом.
 
-![9](https://github.com/ElizavetaKuzmenko/Programming-and-computer-instruments/blob/master/images/9.png)
+![10](https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/merge_8.png)
 
 Нажмите ОК.
 
-Проверьте (с помощью поиска), что частота для данного слова указана правильно.
-Скопируем ячейку с формулой и вставим ее напротив всех остальных слов.
+Проверьте (с помощью поиска), что уровень английского для данного информанта указан правильно.
+Скопируем ячейку с формулой и вставим ее напротив всех остальных информантов.
 
-![10](https://github.com/ElizavetaKuzmenko/Programming-and-computer-instruments/blob/master/images/10.png)
+![11](https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/merge_9.png)
 
-Теперь мы переставили все найденные данные из таблицы `RLC`. Осталось добавить те слова из `RLC`, которых не нашлось в основной таблице.
+Теперь мы переставили все найденные данные из таблицы `english`. Осталось добавить те слова из `english`, которых не нашлось в основной таблице.
 
 **Шаг 5**
 
-Теперь все будет наоборот: добавим в таблицу `RLC` столбец "Номер строки, на которой слово стоит в CorST".
+Теперь все будет наоборот: добавим в таблицу `english` столбец "Номер строки, на которой информант стоит в sounds".
 
 **Шаг 6**
 
-Для каждого слова в таблице `RLC` найдем его позицию в столбце со словами таблицы `CorST` и запишем в столбце "Номер строки..." (так же, как в Шаге 2).
+Для каждого слова в таблице `english` найдем его позицию в столбце со словами таблицы `sounds` и запишем в столбце "Номер строки..." (так же, как в Шаге 2).
 
 ![11](https://github.com/ElizavetaKuzmenko/Programming-and-computer-instruments/blob/master/images/11.png)
 
