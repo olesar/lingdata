@@ -38,6 +38,8 @@
 
 #### 9. Объединение данных из нескольких таблиц. Интерпретация значимости наблюдений. [Практикум 9](practicum-spreadsheets-merging.md) [Котики VS. роботы](https://docs.google.com/spreadsheets/d/1n73pj4khl5ze9fyyC6QVYDDLFPlrWbXT4YY0_aiPSBo/edit?usp=sharing)
 
+Д/з: [Объединение нескольких таблиц](hw9_spreadsheets-merging.md)  
+
 #### Контрольная работа 
 
 #### 10. Fieldworks 
