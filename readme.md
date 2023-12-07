@@ -42,7 +42,9 @@
 
 #### Контрольная работа 
 
-#### 10. Fieldworks 
+#### 10. Fieldworks [Практикум 10](practicum-fieldworks.md)  
+
+Д/з нет :)
 
 ### Экзамен - [описание](exam_project.md)
 
