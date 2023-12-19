@@ -1,15 +1,11 @@
 # Объединение данных из разных таблиц с помощью индексации
 
-Возьмем частотные списки слов в из двух корпусов, [КРУТ](http://web-corpora.net/CoRST) и Русского учебного корпуса ([RLC](http://web-corpora.net/RLC)) - частотные списки обрезаны по частоте 3. 
+Возьмем частотные списки слов в из двух корпусов, [КРУТ](http://web-corpora.net/CoRST) и Русского учебного корпуса ([RLC](http://web-corpora.net/RLC)) - частотные списки обрезаны по частоте. 
 Вот ссылка на [гугл-таблицу](https://docs.google.com/spreadsheets/d/16FKxnPqs8m6d4Lbn9nKVJw-oXfwn1LL_h78WGPd2AO8/edit?usp=sharing), с которой вы можете сделать себе копию (или скачать версию для работы в Excel).
 
-Таблица `CorST`  
+Таблицы корпусов `CorST` и `RLC` находятся на разных вкладках.
 
 <img src="https://github.com/ElizavetaKuzmenko/Programming-and-computer-instruments/blob/master/images/1.png" alt="таблица 1" width="50%">
-
-Таблица `RLC`
-
-<img src="https://github.com/ElizavetaKuzmenko/Programming-and-computer-instruments/blob/master/images/2.png" alt="таблица 2" width="50%">
 
 Мы хотим получить общую таблицу, где данные из двух таблиц сведены вместе и их можно сравнить.
 
