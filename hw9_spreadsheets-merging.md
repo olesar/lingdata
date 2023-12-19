@@ -7,9 +7,9 @@
 
 <img src="https://github.com/ElizavetaKuzmenko/Programming-and-computer-instruments/blob/master/images/1.png" alt="таблица 1" width="50%">
 
-Мы хотим получить общую таблицу, где данные из двух таблиц сведены вместе и их можно сравнить.
-
 <img src="https://github.com/ElizavetaKuzmenko/Programming-and-computer-instruments/blob/master/images/14.png" alt="таблица 14" width="50%">    
+
+Мы хотим получить общую таблицу, где данные из двух таблиц сведены вместе и их можно сравнить.
 
 Внимание, в получившейся таблице могут и должны будут встречаться **пустые ячейки**!
 
