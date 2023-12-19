@@ -1,7 +1,7 @@
 # Объединение данных из разных таблиц с помощью индексации
 
 Возьмем частотные списки слов в из двух корпусов, [КРУТ](http://web-corpora.net/CoRST) и Русского учебного корпуса ([RLC](http://web-corpora.net/RLC)) - частотные списки обрезаны по частоте 3. 
-Вот ссылка на [гугл-таблицу](https://docs.google.com/spreadsheets/d/16FKxnPqs8m6d4Lbn9nKVJw-oXfwn1LL_h78WGPd2AO8/edit?usp=sharing), с которой вы можете сделать себе копию (если же вы работаете в Excel, то можно скачать файл по [ссылке](https://github.com/ElizavetaKuzmenko/Programming-and-computer-instruments/blob/master/%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B9%20%D0%B8%20%D1%81%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%D0%BE%D0%B2/corpus_freq.xlsx) ).
+Вот ссылка на [гугл-таблицу](https://docs.google.com/spreadsheets/d/16FKxnPqs8m6d4Lbn9nKVJw-oXfwn1LL_h78WGPd2AO8/edit?usp=sharing), с которой вы можете сделать себе копию (или скачать версию для работы в Excel).
 
 Таблица `CorST`  
 
@@ -41,7 +41,7 @@
 Сделаем это с помощью формулы `=ПОИСКПОЗ(...)` (в английской версии `=MATCH(...)`).   
 В Excel эту формулу можно найти на вкладке Формулы в разделе "Ссылки и массивы".   
 
-<img src="https://github.com/ElizavetaKuzmenko/Programming-and-computer-instruments/blob/master/images/4.png" alt="таблица 3">
+<img src="https://github.com/ElizavetaKuzmenko/Programming-and-computer-instruments/blob/master/images/4.png" alt="таблица 4">
 
 В окне вставки формул укажем три аргумента:
   * Искомое_значение: кликните на ячейку с лексемой слева.
