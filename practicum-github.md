@@ -30,7 +30,7 @@
 
 Возможно, вам предложат пройти дополнительные тесты, чтобы убедиться, что вы не робот:
 
-<img src="fig/github-signup1.png" alt="not a robot" width="70%"/>
+<img src="fig/github-notarobot.png" alt="not a robot" width="70%"/>
 
 
 #### 2. Копируем репозиторий lingdata  
