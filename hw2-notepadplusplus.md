@@ -38,7 +38,7 @@ menn	maður	NOUN
   Пример:
 
 ``` 
-eða lög sín setja menn á bækur hver þjóð á sína tungu .
+eða lög sín setja menn á bækur hver þjóð á sína tungu . En af því að tungurnar eru ólíkar hver annarri . 
 ``` 
 
 Во второй строке файла запишите регулярное выражение, которое вы использовали для поиска, в третьей строке - регулярное выражение, которое вы использовали для замены.  
