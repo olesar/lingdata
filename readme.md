@@ -10,6 +10,9 @@
 
 Д/з: [Кодировки и регулярные выражения](hw2-notepadplusplus.md). Таблицу с файлами см. в ведомости на вкладке [HW2](https://docs.google.com/spreadsheets/d/1_TkpAaQNKIiIAtKA3AgGxrB6BkqHgESa5gHfTFCZ9tE/edit?usp=sharing). Срок сдачи - среда 25.09 в 23:59. 
 
+#### 2. Документация лингвистических данных в ELAN
+[Практикум 2](practicum-elan.md) 
+
 ### Лекции
 
 1. Кодировки, форматы и структурированное представление текста [презентация1.pdf](1TextFormats1.pdf), [презентация2.md](2TextFormats.md), [видео](https://disk.yandex.ru/i/ziADAK8GTQnDVA)
