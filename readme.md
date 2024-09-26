@@ -10,8 +10,10 @@
 
 Д/з: [Кодировки и регулярные выражения](hw2-notepadplusplus.md). Таблицу с файлами см. в ведомости на вкладке [HW2](https://docs.google.com/spreadsheets/d/1_TkpAaQNKIiIAtKA3AgGxrB6BkqHgESa5gHfTFCZ9tE/edit?usp=sharing). Срок сдачи - среда 25.09 в 23:59. 
 
-#### 2. Документация лингвистических данных в ELAN
+#### 3. Документация лингвистических данных в ELAN
 [Практикум 2](practicum-elan.md) 
+
+Д/з: [Сбор и первичная расшифровка материала](hw3-getdata.md)
 
 ### Лекции
 
