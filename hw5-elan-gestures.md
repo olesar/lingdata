@@ -7,10 +7,10 @@
 Домашнее задание является продолжением [практикума](https://github.com/olesar/lingdata/blob/gh-pages/practicum-elan-intonation.md) в классе, нужно разметить следующие слои:  
 
 * план выражения жеста (слои `gesture@...`)
-* активный орган (`gestActiveOrgan@...`)   
-* значение жеста (`gestMeaning@...`)
-* комментарии к разметке жестов (`gestComment@...`)
-* интонация (`eduType@...`)
+* активный орган (`gestActiveOrgan@...`, тип слоев gesture_organs, родительский слой - gesture@...)
+* значение жеста (`gestMeaning@...`, тип gesture_meaning, родительский слой - gesture@...)
+* комментарии к разметке жестов (`gestComment@...`, тип gesture_comment, родительский слой - gesture@...)
+* интонация (`eduType@...`, тип utterance_types со стереотипом Symbolic Association, родительский слой text@...)
 
 Для оценки будет достаточно разметить тот же фрагмент ролика, что и в ДЗ-4, то есть минуту.
 
