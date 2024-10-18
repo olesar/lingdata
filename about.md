@@ -11,8 +11,8 @@
 читает лекции и видет семинары в 1й группе  
 
 ##### Ангелина Степанова <a href="https://daneelsteel.github.io/webpage/">&#127891;</a>    
-<img src="" />  
-<a href="mailto:" target="_blank">&#9993; @mail.ru</a>   
+<img src="https://github.com/olesar/lingdata/blob/gh-pages/fig/angelinastepanova.jpg" />  
+<a href="mailto:angelina.stepanova.m@gmail.com" target="_blank">&#9993; angelina.stepanova.m@gmail.com</a>   
 
 <a href="https://t.me/life_on_maaars">&#9997; @life_on_maaars</a>  
 
