@@ -3,7 +3,7 @@
 #### Преподаватели
 
 ##### Ольга Николаевна Ляшевская  <a href="https://www.hse.ru/staff/olesar">&#127891;</a> 
-<img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/olesar.jpg" />  
+<img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/olesar.jpg" width="300"/>  
 <a href="mailto:olesar@yandex.ru" target="_blank">&#9993; olesar@yandex.ru</a>  
 
 <a href="https://t.me/olesar">&#9997; @olesar</a>  
@@ -11,13 +11,13 @@
 читает лекции и видет семинары в 1й группе  
 
 ##### Ангелина Степанова <a href="https://daneelsteel.github.io/webpage/">&#127891;</a>    
-<img src="https://github.com/olesar/lingdata/blob/gh-pages/fig/angelinastepanova.jpg" />  
+<img src="https://github.com/olesar/lingdata/blob/gh-pages/fig/angelinastepanova.jpg" width="300"/>  
 <a href="mailto:angelina.stepanova.m@gmail.com" target="_blank">&#9993; angelina.stepanova.m@gmail.com</a>   
 
 <a href="https://t.me/life_on_maaars">&#9997; @life_on_maaars</a>  
 
 ##### Таня Казакова <a href="https://www.hse.ru/org/persons/225539844">&#127891;</a>  
-<img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/tkazakova.jpeg" />  
+<img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/tkazakova.jpeg" width="600"/>  
 <a href="mailto:tanusha.kazakova@gmail.com" target="_blank">&#9993; tanusha.kazakova@gmail.com</a>  
 
 <a href="https://t.me/tbkazak">&#9997; @tbkazak</a> 
