@@ -26,7 +26,7 @@
 
 ##  Ссылка
 
-Когда сформируете исследовательски вопрос и состав группы, пожалуйста запишитесь в [данную таблицу](https://docs.google.com/spreadsheets/d/1so6XokH4ZV2rIGABVyGCsmWzZ4GGWcG4IgHOrFiWICM/edit?usp=sharing)
+Когда сформируете исследовательский вопрос и состав группы, пожалуйста, запишитесь в [данную таблицу](https://docs.google.com/spreadsheets/d/1so6XokH4ZV2rIGABVyGCsmWzZ4GGWcG4IgHOrFiWICM/edit?usp=sharing)
 
 ## Что должно получиться
 Четко описанное исследование: что изучали, на каком материале, какими методами, к каким выводам пришли.
