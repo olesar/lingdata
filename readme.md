@@ -2,7 +2,7 @@
 
 <a href="https://olesar.github.io/lingdata">Страница курса</a> &#129303; [Ведомость](https://docs.google.com/spreadsheets/d/1LgZHA-E8P8jKK5PSs07F2TFB4mm1gdQ1Sf_ZlskBNYk/edit?usp=sharing) [Как выставляются оценки](about-grades.md) &#128526; [Инструментарий](about-tools.md) &#128526; [О курсе](about.md)   
 
-#### 1. GitHub. Markdown и HTML. [Практикум 1](practicum-github.md)
+#### 1. GitHub. Markdown и HTML. [Практикум 1](practicums/practicum-github.md)
 
 Д/з: [Личная страничка в HTML](https://github.com/olesar/lingdata/blob/gh-pages/hw1-html.md) и [опрос](https://forms.gle/5wPXjN9qFqCbb5Lm6)
 
