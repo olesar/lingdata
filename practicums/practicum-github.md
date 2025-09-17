@@ -30,14 +30,14 @@
 
 Возможно, вам предложат пройти дополнительные тесты, чтобы убедиться, что вы не робот:
 
-<img src="fig/github-notarobot.png" alt="not a robot" width="50%"/>
+<img src="../fig/github-notarobot.png" alt="not a robot" width="50%"/>
 
 
 #### 2. Копируем репозиторий lingdata  
 
 Убедитесь, что вы залогинены на гитхабе. Откройте страницу по ссылке (https://github.com/nestorica/lingdata) и нажмите кнопку `fork`. В результате в вашем аккаунте появится копия этого репозитория, с которой вы дальше будете работать. (Пожалуйста, не меняйте имя репозитория `lingdata` и его статус Public, чтобы мы могли автоматически проверять ваши задания.)   
 
-<img src="fig/github-forkrepo.png" alt="fork repo" width="70%"/>
+<img src="../fig/github-forkrepo.png" alt="fork repo" width="70%"/>
 
 
 #### 3. Работаем с _вашим_ репозиторием lingdata  
@@ -62,7 +62,7 @@ GitHub является системой контроля версий. С по�
 
 Сейчас у нашего репозитория есть две ветки - `main` и `gh-pages`. Одна из веток, `main`, дефолтная - это значит, что она открывается в браузере по умолчанию и вы по умолчанию вносите изменения в нее. Вторая ветка -- для GitHub pages, сервиса, который позволяет представлять содержание репозитория как сайта.  
 
-<img src="fig/github-branches.png" alt="branches" width="30%"/>  
+<img src="../fig/github-branches.png" alt="branches" width="30%"/>  
 
 Если вы не видите ветки `gh-pages`, нажмите на `main` и добавьте ветку `gh-pages` (`Create branch...`). Вернитесь в главную ветку (`main`) и дальше работайте только в ней.    
 
@@ -73,11 +73,11 @@ GitHub является системой контроля версий. С по�
 
    с помощью кнопки `Add files` > `+ Create new file` создайте файл и назовите его `test.txt`.
 
-<img src="fig/github-newfile.png" alt="create new file" width="70%"/>  
+<img src="../fig/github-newfile.png" alt="create new file" width="70%"/>  
   
 Напишите в нем любой текст и сохраните изменения -- `Commit changes...` (зеленая кнопка). При коммите полезно описывать в специальном поле, какие изменения вы внесли и почему.  
 
-<img src="fig/github-newfile1.png" alt="new file created" width="70%"/>  
+<img src="../fig/github-newfile1.png" alt="new file created" width="70%"/>  
 
 Проверьте, что изменилось в структуре репозитория и в истории изменений.  
 
@@ -202,7 +202,7 @@ HTML - язык разметки оформления веб-страниц. HTM
 
 **Задание**  
 
-Начните в классе выполнять [задание](hw1-html.md) по редактированию шаблона личной страницы. В конце работы загрузите все измененные и новые файлы в репозиторий. 
+Начните в классе выполнять [задание](../hw/hw1-html.md) по редактированию шаблона личной страницы. В конце работы загрузите все измененные и новые файлы в репозиторий. 
 
 Вы сможете увидеть результат вашей работы по ссылке вида `https://<your-account>.github.io/lingdata/mywebpage/`.  
 
@@ -223,15 +223,15 @@ HTML - язык разметки оформления веб-страниц. HTM
 
 ##### Как создать репозиторий GitHub "с нуля" 
 
-<img src="fig/github_new_repo.png" alt="new repo" width="30%"/>
+<img src="../fig/github_new_repo.png" alt="new repo" width="30%"/>
 
 Если так не получилось, зайдите на основную страницу своего гитхаба (например, моя - https://github.com/olesar, где olesar - название моего аккаунта) и нажмите кнопку New на вкладке Repositories
 
-<img src="fig/github_new_repo1.png" alt="another new repo" width="40%"/>
+<img src="../fig/github_new_repo1.png" alt="another new repo" width="40%"/>
 
 3. Укажите имя репозитория, тип (Public) и добавьте файл README.
 
-<img src="fig/github_repo_type.png" alt="another new repo" width="40%"/>
+<img src="../fig/github_repo_type.png" alt="another new repo" width="40%"/>
 
 ##### Как удалить репозиторий  
 
