@@ -26,7 +26,7 @@
 
 На странице [github.com](https://github.com/) нажмите Sing Up, заведите аккаунт (имя - любое), подтвердите его по электронной почте.
 
-<img src="fig/github-signup.png" alt="sign up" width="70%"/>
+<img src="../fig/github-signup.png" alt="sign up" width="70%"/>
 
 Возможно, вам предложат пройти дополнительные тесты, чтобы убедиться, что вы не робот:
 
