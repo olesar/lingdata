@@ -27,6 +27,8 @@
 <img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/Чулпан.jpg" width="400"/>  
 
 ##### Ира @haedaffod
+<img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/Ира.jpg" width="400"/> 
+
 ##### Лиза @heeeeeeeeeeeeeeeeeelp
 ### Авторы курса  
 В разработке программы и материалов курса принимали участие О. Н. Ляшевская, С. Ю. Толдова, Т. А. Архангельский, Б. В. Орехов, Т. Казакова, Я. Лабенская, Е. Кузьменко, Э. Мустакимова, Е. Грамматчикова, Е. Вольф, А. Орлов, А. Степанова, а также учебные ассистенты разных лет.  
