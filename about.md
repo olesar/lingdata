@@ -21,9 +21,11 @@
 #### Ассистенты  
 
 ##### Эрика @zhizn_bez_prosvetov
-<img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/Эрика.jpg" width="400"/>  
+<img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/Эрика.jpg" width="400"/> 
+
 ##### Чулпан @napluch
 <img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/Чулпан.jpg" width="400"/>  
+
 ##### Ира @haedaffod
 ##### Лиза @heeeeeeeeeeeeeeeeeelp
 ### Авторы курса  
