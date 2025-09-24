@@ -6,6 +6,11 @@
 
 Д/з: [Личная страничка в HTML](https://github.com/olesar/lingdata/blob/gh-pages/hw/hw1-html.md) и [опрос](https://forms.gle/5wPXjN9qFqCbb5Lm6)
 
+#### 2. Работа в текстовом редакторе (NotePad++ или BBedit). [Практикум 2](practicums/practicum-notepadplusplus.md)
+
+Д/з: [Кодировки и регулярные выражения](hw/hw2-notepadplusplus.md). Таблицу с файлами см. в ведомости на вкладке [HW2](https://docs.google.com/spreadsheets/d/1LgZHA-E8P8jKK5PSs07F2TFB4mm1gdQ1Sf_ZlskBNYk/edit?usp=sharing). + Запись видео для HW3.
+
+
 ### Лекции
 
 1. Кодировки, форматы и структурированное представление текста [презентация1.pdf](lectures/1TextFormats1.pdf), [презентация2.md](lectures/2TextFormats.md), [видео](https://disk.yandex.ru/i/ziADAK8GTQnDVA)
