@@ -85,19 +85,19 @@ ____________________________
 - Поучаствуйте в работе другой пары или см. предыдущий пункт.
 
 # Примеры
-Видна только голова
+Видна только голова.
 
 <img src="https://github.com/olesar/lingdata/blob/gh-pages/fig/scrins/example_arh.png" alt="drawing" width="300"/>
 
-Нет. Руки видны плохо, они обрезаны. И перекрыты предметами
+Руки видны плохо, они обрезаны. И перекрыты предметами.
 
 <img src="https://github.com/olesar/lingdata/blob/gh-pages/fig/scrins/example_let.png" alt="drawing" width="300"/>
 
-Нет. Когда руки опускаются, их не видно. А ещё это кресло на колёсиках, в какой-то момент Н.Р. подвинулась вперёд, стала видна только голова.
+Когда руки опускаются, их не видно. А ещё это кресло на колёсиках, в какой-то момент Н.Р. подвинулась вперёд, стала видна только голова.
 
 <img src="https://github.com/olesar/lingdata/blob/gh-pages/fig/scrins/example_dob.png" alt="drawing" width="600"/>
 
-Очень далеко, стол перекрывает движения
+Очень далеко, стол перекрывает движения.
 
 <img src="https://github.com/olesar/lingdata/blob/gh-pages/fig/scrins/example_rez.png" alt="drawing" width="300"/>
 
@@ -105,14 +105,14 @@ ____________________________
 
 <img src="https://github.com/olesar/lingdata/blob/gh-pages/fig/scrins/example_buz.png" alt="drawing" width="300"/>
 
-Прекрасный пример. Руки будут видны и в сложенном виде
+Прекрасный пример. Руки будут видны и в сложенном виде.
 
 <img src="https://github.com/olesar/lingdata/blob/gh-pages/fig/scrins/example_kly2.png" alt="drawing" width="300"/>
 
-Прекрасный пример. Руки видны и в сложенном виде
+Прекрасный пример. Руки видны и в сложенном виде.
 
 <img src="https://github.com/olesar/lingdata/blob/gh-pages/fig/scrins/example_nik.png" alt="drawing" width="600"/>
 
-Супер! Оба участника. Видны целиком
+Супер! Оба участника. Видны целиком.
 
 <img src="https://github.com/olesar/lingdata/blob/gh-pages/fig/scrins/example_best.png" alt="drawing" width="600"/>
