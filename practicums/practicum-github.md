@@ -216,6 +216,8 @@ HTML - язык разметки оформления веб-страниц. HTM
 * [Введение в HTML](https://developer.mozilla.org/ru/docs/Learn/HTML/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2_HTML)
 
 * [Прекрасный учебник HTML и CSS](https://www.w3schools.com/html/)
+  
+* [Набор шаблонов: кнопки, панели навигации, карусели](https://ui.shadcn.com/docs/components)
 
 * Bootstrap [объяснение сеточной системы Bootstrap](https://ktonanovenkogo.ru/html/bootstrap/setochnaya-sistema-bootstrap-3-primer-raboty-chast-2.html)
 
