@@ -14,3 +14,5 @@
 ### Лекции
 
 1. Кодировки, форматы и структурированное представление текста [презентация1.pdf](lectures/1TextFormats1.pdf), [презентация2.md](lectures/2TextFormats.md), [видео](https://disk.yandex.ru/i/ziADAK8GTQnDVA)
+
+2. Цифровые ресурсы для лингвистических исследований [презентация](2LingResources.pdf)
