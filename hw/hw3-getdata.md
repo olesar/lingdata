@@ -12,8 +12,7 @@
 Но не всё сразу.
 
 ### Запись видеоматериалов для корпуса
-См. подробно hw2.5-getdata.md
-
+См. подробно [дз 2,5](https://github.com/olesar/lingdata/blob/gh-pages/hw/hw2.5-getdata.md).
 #### Выбор фрагмента для разметки
 
 В ходе проекта вам предстоит разметить 5 минут видео. (В этом дз от вас требуется первоначальная разметка только одной минуты из 5.)
@@ -34,7 +33,7 @@
 
 #### Файлохранилище
 Файлы должны быть названы в формате `Irkutsk_jms2005.avi`, где первая часть - название города/региона информанта (Saint-Petersburg, NizhnyNovgorod), затем идут инициалы информанта (например, _jms_ для _Юлия Михайловна Щепкина_) и его год рождения.
-Положите файл в [папку]([https://drive.google.com/drive/folders/1Lq6iXyNv8CP_nqQzUr6os6ROHhN6nmhD?usp=sharing](https://drive.google.com/drive/folders/1JQf4sRnoWbyCE4PlwNum65Ds_qgIXjwp?usp=sharing)) и дайте ссылку на него [в таблице](https://docs.google.com/spreadsheets/d/16TsXOBmZlMqYUr_mzp9hNYavJ-mk78iIYO53sUlvKII/edit?usp=sharing), заполнив поля с метаинформацией. Если запись по каким-то причинам разбилась на несколько файлов, соедините их. (Не рекомендуется выкладывать медиафайлы на GitHub, так как он не предназначен для хранения объемных данных.)
+Положите файл в [папку](https://drive.google.com/drive/folders/1JQf4sRnoWbyCE4PlwNum65Ds_qgIXjwp?usp=drive_link) и дайте ссылку на него [в таблице](https://docs.google.com/spreadsheets/d/16TsXOBmZlMqYUr_mzp9hNYavJ-mk78iIYO53sUlvKII/edit?usp=sharing), заполнив поля с метаинформацией. Если запись по каким-то причинам разбилась на несколько файлов, соедините их. (Не рекомендуется выкладывать медиафайлы на GitHub, так как он не предназначен для хранения объемных данных.)
 
 Видео в папку загружается 1 раз, а в таблице должно быть по строчке на разметчика.
 
