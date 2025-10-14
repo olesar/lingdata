@@ -10,12 +10,12 @@
 
 Д/з: [Кодировки и регулярные выражения](hw/hw2-notepadplusplus.md). Таблицу с файлами см. в ведомости на вкладке [HW2](https://docs.google.com/spreadsheets/d/1LgZHA-E8P8jKK5PSs07F2TFB4mm1gdQ1Sf_ZlskBNYk/edit?usp=sharing). + [Запись видео для HW3](https://github.com/olesar/lingdata/blob/gh-pages/hw/hw2.5-getdata.md).
 
-#### 3. Документация лингвистических данных в ELAN. [Практикум 3](practicums/practicum-elan.md) 
+#### 3. Документация лингвистических данных в ELAN. [Практикум 3](practicum-elan.md) 
 
 Д/з: [Сбор и первичная расшифровка материала](hw/hw3-getdata.md)
 
 
-#### 4. ELAN. Разметка ЭДЕ, токенизация, морфологическая разметка. [Практикум 4](practicums/practicum-elan-textgrid.md)  
+#### 4. ELAN. Разметка ЭДЕ, токенизация, морфологическая разметка. [Практикум 4](practicum-elan-textgrid.md)  
 
 Д/з: [Расшифровка материала. Частеречная разметка](hw/hw4-elan-tokens.md)
 
