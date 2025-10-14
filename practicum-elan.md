@@ -8,7 +8,7 @@ ELAN - система для разметки мультимедийных (ау
 
 ### Файлы для работы  
 Скачайте программу ELAN со страницы [Института М. Планка](http://tla.mpi.nl/tools/tla-tools/elan/download/) (основная версия, не Simple!), 
-а также [Образец разметки](https://disk.yandex.ru/d/42cxYuFdjylwJA)  
+а также [образец разметки](https://github.com/olesar/lingdata/blob/gh-pages/data/elan_livecorpus_template.eaf)  
 На семинаре вы можете размечать свое видео или скачать [видео](https://drive.google.com/file/d/16RhHKVXEzvQQPIQKR_yYAfydoTl8g73o/view?usp=sharing).
 
 ### 1. Знакомство с системой 
