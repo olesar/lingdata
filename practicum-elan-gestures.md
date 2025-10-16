@@ -12,6 +12,7 @@
   * `gestFingers@...`, тип слоев gesture_organs, родительский слой - gestType@..., стереотип - Included In
   * `gestLegs@...`, тип слоев gesture_organs, родительский слой - gestType@..., стереотип - Included In
 * комментарии к разметке жестов (`gestComment@...`, тип gesture_comment, родительский слой - gestType@...)
+
 Типы жестов: (сделайте список значений для типа `gesture_type`)
 - изобразительный
 - указательный
