@@ -3,15 +3,15 @@
 #### 1. Типы и слои  
 
 Создайте слои (и типы слоев, если нужно) для каждого говорящего, вида (для условного спикера @aaa1989f, а вы подставьте своего):       
-* тип жеста (`gestType@...`, тип слоев gesture_type, слой не имеет родителя)
-* значение жеста (`gestMeaning@...`, тип gesture_meaning, родительский слой - gestType@...)
+* тип жеста (`gestType@...`, тип слоев gesture_type, слой не имеет родителя, стереотип - None)
+* значение жеста (`gestMeaning@...`, тип gesture_meaning, родительский слой - gestType@..., стереотип - Symbolic Association)
 * участвующие части тела
-  * `gestBody@...`, тип слоев gesture_organs, родительский слой - gestType@...
-  * `gestHead@...`, тип слоев gesture_organs, родительский слой - gestType@...
-  * `gestHands@...`, тип слоев gesture_organs, родительский слой - gestType@...
-  * `gestFingers@...`, тип слоев gesture_organs, родительский слой - gestType@...
-  * `gestLegs@...`, тип слоев gesture_organs, родительский слой - gestType@...
-* комментарии к разметке жестов (`gestComment@...`, тип gesture_comment, родительский слой - gestType@...)
+  * `gestBody@...`, тип слоев gesture_organs, родительский слой - gestType@..., стереотип - Included In
+  * `gestHead@...`, тип слоев gesture_organs, родительский слой - gestType@..., стереотип - Included In
+  * `gestHands@...`, тип слоев gesture_organs, родительский слой - gestType@..., стереотип - Included In
+  * `gestFingers@...`, тип слоев gesture_organs, родительский слой - gestType@..., стереотип - Included In
+  * `gestLegs@...`, тип слоев gesture_organs, родительский слой - gestType@..., стереотип - Included In
+* комментарии к разметке жестов (`gestComment@...`, тип gesture_comment, родительский слой - gestType@...), стереотип - Included In
 
 Типы жестов: (сделайте список значений для типа `gesture_type`)
 - изобразительный
