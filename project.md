@@ -26,7 +26,7 @@
 * `gestHead@aaa1989f`, тип `gesture_organs`, родительский слой - gestType@..., стереотип - Included In
 * `gestHands@aaa1989f`, тип `gesture_organs`, родительский слой - gestType@..., стереотип - Included In
 * `gestFingers@aaa1989f`, тип `gesture_organs`, родительский слой - gestType@..., стереотип - Included In
-* `gestLegs@...`, тип `gesture_organs`, родительский слой - gestType@..., стереотип - Included In
+* `gestLegs@aaa1989f`, тип `gesture_organs`, родительский слой - gestType@..., стереотип - Included In
 * `gestComment@aaa1989f` - для комментариев к разметке жестов (тип `gesture_comment`, родительский слой - gestType@...)
 
 Особенности разметки этих слоёв (типы, стереотипы) такие же, какие были в домашних заданиях.
