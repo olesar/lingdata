@@ -24,7 +24,7 @@ __AntConc__ -- корпусный менеджер
 * Зайдите в Raw File(s) и добавьте отдельные файлы (Add File(s)) или целые папки (Add Directory). Нажмите Create.
 <img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/antconc_AddFiles.png" width = "800"/>
 * После создания справа появится табличка с данными о получившемся корпусе.
-<img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/antconc_СorpusStat" width = "800"/>
+<img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/antconc_СorpusStat.png" width = "800"/>
 
 #### Ключевые слова (лексические маркеры - токены)
 
