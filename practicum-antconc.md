@@ -25,6 +25,8 @@ __AntConc__ -- корпусный менеджер
 <img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/antconc_AddFiles.png" width = "800"/>
 * После создания справа появится табличка с данными о получившемся корпусе.
 <img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/antconc_СorpusStat.png" width = "800"/>
+* Для добавления второго крпуса для сравнения (reference corpus), откройте менеджер корпусов: (File > Open Сorpus Manager), нажмите "Reference corpus" и выберите слева нужный вам корпус из доступных.
+<img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/antconc_AddReference.png" width = "800"/>
 
 #### Ключевые слова (лексические маркеры - токены)
 
