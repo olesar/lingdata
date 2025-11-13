@@ -28,6 +28,10 @@
 #### 6. Конкордансеры. AntConc. [Практикум 7](practicum-antconc.md)
 Д/з: [AntConc]() TBA
 
+### Экзамен   [описание](https://github.com/olesar/lingdata/blob/gh-pages/exam_project.md)
+
+#### Контрольная работа 
+[материалы для подготовки](test-drill.md) 
 
 
 ### Лекции
