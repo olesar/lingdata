@@ -41,7 +41,7 @@
 Опишите идею исследования, информацию о корпусе, методы работы с данными, основные факторы, примеры, количественный анализ, выводы/объяснения, приведите список литературы.
 Объём не меньше 2х страниц.
 
-Хендаут и презентацию нужно будет загрузить в [папку](https://drive.google.com/drive/folders/1tJhO7lJi3y3097440OBIbAVY6npsx6QB?usp=sharing).
+Хендаут и презентацию нужно будет загрузить в [папку](https://drive.google.com/drive/folders/1_T1NG5FYT-KskBhBL3B9_t2FQsm89s7C?usp=sharing).
 
 Хендаут нужно загрузить до 26 декабря 23:59.
 
@@ -91,3 +91,4 @@
 с использованием методов теории вероятностей
 [презентация](https://drive.google.com/file/d/1iOc6hGJnZUMe8yEjrKDjCu-OzjWBpy4r/view?usp=sharing) [хендаут](https://drive.google.com/file/d/1iWkv6O5v6lYJcIueZAtzY16ZHCUWk5ON/view?usp=sharing)
 - Сделаем проект через недельку-две: описание конструкции вида Noun-Sg - NumCrd [хендаут](https://drive.google.com/file/d/1ICZOV6r7o-MfRLGKG_EGW8r8cRgULorI/view?usp=sharing)
+- Всегда ли второй: клитики  в Ваккернагелевских клаузах [презентация](https://github.com/olesar/lingdata/blob/gh-pages/fig/project_examples/%D0%92%D1%81%D0%B5%D0%B3%D0%B4%D0%B0%20%D0%BB%D0%B8%20%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B8%CC%86_%20%D0%BA%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B8%20%D0%B2%20%D0%92%D0%B0%D0%BA%D0%BA%D0%B5%D1%80%D0%BD%D0%B0%D0%B3%D0%B5%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D1%85%20%D0%BA%D0%BB%D0%B0%D1%83%D0%B7%D0%B0%D1%85.pdf) [хендаут](https://github.com/olesar/lingdata/blob/gh-pages/fig/project_examples/%D0%92%D1%81%D0%B5%D0%B3%D0%B4%D0%B0%20%D0%BB%D0%B8%20%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B8%CC%86_%20%D0%BA%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B8%20%20%D0%B2%20%D0%92%D0%B0%D0%BA%D0%BA%D0%B5%D1%80%D0%BD%D0%B0%D0%B3%D0%B5%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D1%85%20%D0%BA%D0%BB%D0%B0%D1%83%D0%B7%D0%B0%D1%85%20(text).pdf)
