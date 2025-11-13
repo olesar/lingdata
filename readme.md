@@ -26,7 +26,7 @@
 #### Проект 1 модуля - [project.md](project.md). Срок сдачи - среда 12.11 в 23:59, у 3й группы 18.11.
 
 #### 6. Конкордансеры. AntConc. [Практикум 7](practicum-antconc.md)
-Д/з: [AntConc]() TBA
+Д/з: [AntConc](https://forms.gle/CdoHkwWGgA8NTjNS7)
 
 ### Экзамен   [описание](https://github.com/olesar/lingdata/blob/gh-pages/exam_project.md)
 
