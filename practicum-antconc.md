@@ -16,7 +16,15 @@ __AntConc__ -- корпусный менеджер
 
 #### Работа с размеченными файлами 
 
-* Постройте частотный список, игнорируя теги xml (см. xml-файл с расширением xhtml. Чтобы его открыть, укажите Все типы файлов). В настройках Global Settings - Tag - Hide tags. 
+* Постройте частотный список, игнорируя теги xml (см. xml-файл с расширением xhtml. Чтобы его открыть, укажите Все типы файлов). В настройках Global Settings - Tag - Hide tags.
+
+#### Работа с корпусами
+* Чтобы создать корпус из собственных файлов, откройте менеджер корпусов: (File > Open Сorpus Manager).
+<img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/antconc_СorpusManager.png" width = "800"/>
+* Зайдите в Raw File(s) и добавьте отдельные файлы (Add File(s)) или целые папки (Add Directory). Нажмите Create.
+<img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/antconc_AddFiles.png" width = "800"/>
+* После создания справа появится табличка с данными о получившемся корпусе.
+<img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/antconc_СorpusStat" width = "800"/>
 
 #### Ключевые слова (лексические маркеры - токены)
 
