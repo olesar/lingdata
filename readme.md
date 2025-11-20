@@ -28,6 +28,10 @@
 #### 6. Конкордансеры. AntConc. [Практикум 6](practicum-antconc.md)
 Д/з: [AntConc](https://forms.gle/CdoHkwWGgA8NTjNS7)
 
+### 7. Web-корпуса. Aranea. Язык запросов CQL [Практикум 7](practicum-web-corpora.md)
+
+Д/з: Поиск в Aranea и НКРЯ (TBA) 
+
 ### Экзамен   [описание](https://github.com/olesar/lingdata/blob/gh-pages/exam_project.md)
 
 #### Контрольная работа 
