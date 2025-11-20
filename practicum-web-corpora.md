@@ -1,7 +1,8 @@
 # Web-корпуса. Aranea, SkELL, SketchEngine. Коллокации. Совместная встречаемость.
 
-<http://aranea.juls.savba.sk/>  
-Мы будем работать с семейством корпусов Aranea -- зайдите по ссылке [Guest Access](http://aranea.juls.savba.sk) и выберите English Araneum Anglicum Minus (120 млн слов).  
+<http://aranea.juls.savba.sk/>  (http://unesco.uniba.sk/guest/)
+
+Мы будем работать с семейством корпусов Aranea -- зайдите по ссылке [Guest Access](http://unesco.uniba.sk/guest/) и выберите English Araneum Anglicum Minus (120 млн слов).  
 
 __Aranea Web Corpora__ - семейство сравнимых веб-корпусов. Есть для большого количества языков:
 * Anglicum  - английский (Anglicum Africanum - африканский английский, Anglicum Asiaticum - азиатский английский)
