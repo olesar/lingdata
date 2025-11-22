@@ -30,7 +30,7 @@
 
 ### 7. Web-корпуса. Aranea. Язык запросов CQL [Практикум 7](practicum-web-corpora.md)
 
-Д/з: Поиск в Aranea и НКРЯ (TBA) 
+Д/з: [Поиск в Aranea и НКРЯ](https://forms.gle/Kz3fTBhXJYF9h1917)
 
 ### Экзамен   [описание](https://github.com/olesar/lingdata/blob/gh-pages/exam_project.md)
 
