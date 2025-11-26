@@ -32,6 +32,9 @@
 
 Д/з: [Поиск в Aranea и НКРЯ](https://forms.gle/Kz3fTBhXJYF9h1917)
 
+#### 8. Анализ выдачи из корпуса (работа в табличном редакторе) [Практикум 8](practicum-spreadsheets.md) [видео](https://disk.yandex.ru/i/v2T4N3AaXPS8kQ)
+Д/з: [Сводные таблицы](https://forms.gle/B2UYXXtVHxG7jLi3A)
+
 ### Экзамен   [описание](https://github.com/olesar/lingdata/blob/gh-pages/exam_project.md)
 
 #### Контрольная работа 
