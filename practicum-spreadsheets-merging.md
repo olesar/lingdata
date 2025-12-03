@@ -24,7 +24,7 @@
 ## Что нужно делать:
 **Шаг 1.**
 
-Добавим в таблицу `sounds` столбец c номером строки, на которой информант (id) стоит в таблице english". 
+Добавим в таблицу `sounds` столбец c номером строки, на которой информант (id) стоит в таблице `english`. 
 
 ![4](https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/merge_4.png)
 
