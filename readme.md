@@ -35,6 +35,16 @@
 #### 8. Анализ выдачи из корпуса (работа в табличном редакторе) [Практикум 8](practicum-spreadsheets.md) [видео](https://disk.yandex.ru/i/v2T4N3AaXPS8kQ)
 Д/з: [Сводные таблицы](https://forms.gle/B2UYXXtVHxG7jLi3A)
 
+#### 9. Объединение данных из нескольких таблиц. Интерпретация значимости наблюдений. [Практикум 9](practicum-spreadsheets-merging.md), [Котики VS. роботы](https://docs.google.com/spreadsheets/d/1n73pj4khl5ze9fyyC6QVYDDLFPlrWbXT4YY0_aiPSBo/edit?usp=sharing)
+
+Д/з: [Объединение нескольких таблиц](hw/hw9_spreadsheets-merging.md)  
+
+#### 10. Fieldworks [Практикум 10](https://github.com/olesar/lingdata/blob/gh-pages/practicum-fieldworks.md)
+Д/з нет :)
+
+### Экзамен   [описание](https://github.com/olesar/lingdata/blob/gh-pages/exam_project.md)
+23 декабря
+
 ### Экзамен   [описание](https://github.com/olesar/lingdata/blob/gh-pages/exam_project.md)
 
 #### Контрольная работа 
