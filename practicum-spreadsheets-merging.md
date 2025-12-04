@@ -135,3 +135,5 @@ _Примечание_: если вам не удается вставить с�
 Вот, что получилось у первокурсников в 2019 году:
 
 ![14](https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/merge_12.png)
+
+[Гугл-таблица](https://docs.google.com/spreadsheets/d/1BFzq5Ml_MVMJpdhJqUhbzzwXjOYJjiIzYYcMdxLaFTs/edit?usp=sharing) с некоторыми визуализациями.
