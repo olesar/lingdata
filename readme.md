@@ -37,18 +37,16 @@
 
 #### 9. Объединение данных из нескольких таблиц. Интерпретация значимости наблюдений. [Практикум 9](practicum-spreadsheets-merging.md), [Котики VS. роботы](https://docs.google.com/spreadsheets/d/1n73pj4khl5ze9fyyC6QVYDDLFPlrWbXT4YY0_aiPSBo/edit?usp=sharing)
 
-Д/з: [Объединение нескольких таблиц](hw/hw9_spreadsheets-merging.md)  
+Д/з: [Объединение нескольких таблиц](hw/hw9_spreadsheets-merging.md)
+
+#### Контрольная работа 
+[материалы для подготовки](test-drill.md) 
 
 #### 10. Fieldworks [Практикум 10](https://github.com/olesar/lingdata/blob/gh-pages/practicum-fieldworks.md)
 Д/з нет :)
 
 ### Экзамен   [описание](https://github.com/olesar/lingdata/blob/gh-pages/exam_project.md)
 23 декабря
-
-### Экзамен   [описание](https://github.com/olesar/lingdata/blob/gh-pages/exam_project.md)
-
-#### Контрольная работа 
-[материалы для подготовки](test-drill.md) 
 
 
 ### Лекции
