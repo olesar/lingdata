@@ -82,7 +82,8 @@ mukču-dula-n        i-ri-wu          dil-ǯi
 
 После выполнения упражнения посмотрите на скетч созданной вами грамматики на основе разметки текста (`Grammar > Grammar sketch`)  
 
-### Полезные ссылки  
+### Полезные ссылки 
+* [Данные для работы](https://github.com/olesar/lingdata/blob/gh-pages/data/bystraja-eve-flex%202025-12-10%201429.fwbackup) - пример проекта для эвенского
 * [Данные для работы](https://github.com/olesar/lingdata/blob/gh-pages/data/Russian-CL%202021-11-16%201439.fwbackup) - пример проекта для русского языка (пользуйтесь `File > Project management > Restore from backup` для загрузки)
 * примеры проектов на сайте [SIL](https://software.sil.org/fieldworks/download/sample-projects)  
 * [видео](https://disk.yandex.ru/i/iSw3uDh4kZubXg) тьюториала С. Ю. Толдовой  
