@@ -20,17 +20,17 @@
 
 #### Ассистенты  
 
-##### Эрика @zhizn_bez_prosvetov
-<img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/Эрика.jpg" width="400"/> 
+##### Рания @raniiaa11
+<img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/Рания.jpg" width="400"/> 
 
-##### Чулпан @napluch
-<img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/Чулпан.jpg" width="400"/>  
+##### Аня @Chiffaaa
+<img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/Аня.jpg" width="400"/>  
 
-##### Ира @haedaffod
-<img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/Ира.jpg" width="400"/> 
+##### Полина @cizzef
+<img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/Полина.jpg" width="400"/> 
 
-##### Лиза @heeeeeeeeeeeeeeeeeelp
-<img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/Лиза.jpg" width="400"/> 
+##### Соня @Y0_shiro
+<img src="https://raw.githubusercontent.com/olesar/lingdata/gh-pages/fig/Соня.jpg" width="400"/> 
 
 ### Авторы курса  
 В разработке программы и материалов курса принимали участие О. Н. Ляшевская, С. Ю. Толдова, Т. А. Архангельский, Б. В. Орехов, Т. Казакова, Я. Лабенская, Е. Кузьменко, Э. Мустакимова, Е. Грамматчикова, Е. Вольф, А. Орлов, А. Степанова, а также учебные ассистенты разных лет.  
