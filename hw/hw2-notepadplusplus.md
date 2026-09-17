@@ -62,7 +62,7 @@ eða lög sín setja menn á bækur hver þjóð á sína tungu . En af því a�
 
 Измените формат конца строки на формат Windows (CR+LF).  
 
-Сохраните файл в формате ANSI (Windows-1251) под именем icepahc22.xml  
+Сохраните файл в формате ANSI (Windows-1252) под именем icepahc22.xml  
 
 ### 3. Задание повышенной трудности
 
