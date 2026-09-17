@@ -223,6 +223,14 @@ HTML - язык разметки оформления веб-страниц. HTM
 
 * Еще один [образец бутстрапа](https://nevmenandr.github.io/work-web-page-example/)
 
+Указать размер шрифта:
+```
+<p style="font-size: 20px;">Абзац размером 20 пикселей</p>
+<p>Текст со <span style="font-size: 20px; color=green;">словами размером</span> 20 пикселей</p>
+```
+
+
+
 
 ##### Как создать репозиторий GitHub "с нуля" 
 
