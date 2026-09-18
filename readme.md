@@ -8,7 +8,7 @@
 
 #### 2. Работа в текстовом редакторе (NotePad++ или BBedit). [Практикум 2](practicums/practicum-notepadplusplus.md)
 
-Д/з: [Кодировки и регулярные выражения](hw/hw2-notepadplusplus.md). Таблицу с файлами см. в ведомости на вкладке [HW2](https://docs.google.com/spreadsheets/d/1LgZHA-E8P8jKK5PSs07F2TFB4mm1gdQ1Sf_ZlskBNYk/edit?usp=sharing). + [Запись видео для HW3](https://github.com/olesar/lingdata/blob/gh-pages/hw/hw2.5-getdata.md).
+Д/з: [Кодировки и регулярные выражения](hw/hw2-notepadplusplus.md). Таблицу с файлами см. в ведомости на вкладке [HW2](https://docs.google.com/spreadsheets/d/1v1BzHqpxJRfTsdPjn1N1II6uHLdxJ3Y64HsISVJvVpM/edit?usp=sharing). + [Запись видео для HW3](https://github.com/olesar/lingdata/blob/gh-pages/hw/hw2.5-getdata.md).
 
 
 ### Лекции
