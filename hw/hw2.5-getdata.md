@@ -105,7 +105,7 @@ ____________________________
 
 <img src="https://github.com/olesar/lingdata/blob/gh-pages/fig/scrins/example_buz.png" alt="drawing" width="300"/>
 
-Прекрасный пример. Руки будут видны и в сложенном виде.
+Хороший пример. Руки будут видны и в сложенном виде, однако есть вероятность, что стол скроет небольшую часть движений.
 
 <img src="https://github.com/olesar/lingdata/blob/gh-pages/fig/scrins/example_kly2.png" alt="drawing" width="300"/>
 
