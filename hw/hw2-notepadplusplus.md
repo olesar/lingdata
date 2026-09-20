@@ -22,7 +22,7 @@
 
 ### 2. Конвертирование форматов с помощью регулярных выражений   
 
-[Скачайте файл](https://disk.yandex.ru/d/rpErxz5-hcoyzw) в формате tsv (tab separated values). Название нужного вам файла находится в [таблице с оценками](https://docs.google.com/spreadsheets/d/1LgZHA-E8P8jKK5PSs07F2TFB4mm1gdQ1Sf_ZlskBNYk/edit?usp=sharing) на листе HW2.
+[Скачайте файл](https://disk.yandex.ru/d/rpErxz5-hcoyzw) в формате tsv (tab separated values). Название нужного вам файла находится в [таблице с оценками](https://docs.google.com/spreadsheets/d/1v1BzHqpxJRfTsdPjn1N1II6uHLdxJ3Y64HsISVJvVpM/edit?usp=sharing) на листе HW2.
 В нём представлена разметка предложений из Исторического корпуса исландского языка следующей структуры:  
 `Token`   `Lemma`   `Part-of-speech` 
 ```
