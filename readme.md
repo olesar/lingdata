@@ -10,6 +10,10 @@
 
 Д/з: [Кодировки и регулярные выражения](hw/hw2-notepadplusplus.md). Таблицу с файлами см. в ведомости на вкладке [HW2](https://docs.google.com/spreadsheets/d/1v1BzHqpxJRfTsdPjn1N1II6uHLdxJ3Y64HsISVJvVpM/edit?usp=sharing). + [Запись видео для HW3](https://github.com/olesar/lingdata/blob/gh-pages/hw/hw2.5-getdata.md).
 
+#### 3. Документация лингвистических данных в ELAN. [Практикум 3](practicum-elan.md) 
+
+Д/з: [Сбор и первичная расшифровка материала](hw/hw3-getdata.md)
+
 
 ### Лекции
 
