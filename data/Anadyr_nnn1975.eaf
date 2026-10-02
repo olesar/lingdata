@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2026-10-02T09:58:17+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2026-10-02T10:47:55+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -7,7 +7,7 @@
             MEDIA_URL="file:///Users/mac/Desktop/Anadyr_nnn1975.mp4"
             MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./Anadyr_nnn1975.mp4"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:7dd73a6a-1925-4492-b793-b4df875e9f4c</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">34</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">248</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="10"/>
