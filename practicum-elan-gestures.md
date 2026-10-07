@@ -8,6 +8,7 @@
 * участвующие части тела
   * `gestBody@...`, тип слоев gesture_organs, родительский слой - gestType@..., стереотип - Included In
   * `gestHead@...`, тип слоев gesture_organs, родительский слой - gestType@..., стереотип - Included In
+  * `gestArms@...`, тип слоев gesture_organs, родительский слой - gestType@..., стереотип - Included In
   * `gestHands@...`, тип слоев gesture_organs, родительский слой - gestType@..., стереотип - Included In
   * `gestFingers@...`, тип слоев gesture_organs, родительский слой - gestType@..., стереотип - Included In
   * `gestLegs@...`, тип слоев gesture_organs, родительский слой - gestType@..., стереотип - Included In
