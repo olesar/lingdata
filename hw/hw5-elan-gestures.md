@@ -27,7 +27,7 @@
 Разметьте автоматически леммы и морфологические признаки слов.
 
 - Экспортируйте слой `words@...`  как текст с разделителями
-- Разметьте столбец токенов при помощи [mystem](http://web-corpora.net/wsgi/mystemplus.wsgi/mystemplus/tagger/mystem/](https://colab.research.google.com/drive/1-7jCMXsY1B73I_Edxqhl5vOIXd330t4A?usp=sharing)
+- Разметьте столбец токенов при помощи [mystem](https://colab.research.google.com/drive/1-7jCMXsY1B73I_Edxqhl5vOIXd330t4A?usp=sharing)
 - Любым удобным вам способом (текстовый редактор, питон, excel) отформатируйте полученную разметку и добавьте к ней таймкоды так, чтобы можно было импортировать слои в ваш .eaf файл.
 - Импортируйте слои в ваш .eaf файл. Название оставьте прежним: `...-gest.eaf`
 
