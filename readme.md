@@ -20,7 +20,12 @@
 
 #### 5. ELAN. Разметка жестов. [Практикум 5](practicum-elan-gestures.md)  
 
-Д/з: [Расшифровка материала. Жесты](hw/hw5-elan-gestures.md)  
+Д/з: [Расшифровка материала. Жесты](hw/hw5-elan-gestures.md)
+
+#### Проект 1 модуля - [project.md](assessment/project.md). Срок сдачи - 15.11 (вс) в 23:59.
+
+#### 6. Конкордансеры. AntConc. [Практикум 6](practicum-antconc.md)
+Д/з: AntConc
 
 
 
