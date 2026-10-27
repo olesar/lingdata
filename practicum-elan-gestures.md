@@ -78,8 +78,8 @@
 
 #### 2.2 Примеры разметки жестов
 
-![Пример 1](gestures_example1.png)
-![Пример 2](gestures_example2.png)
+![Пример 1](https://raw.githubusercontent.com/olesar/lingdata/refs/heads/gh-pages/fig/scrins/gestures_ann_example1.png)
+![Пример 2](https://raw.githubusercontent.com/olesar/lingdata/refs/heads/gh-pages/fig/scrins/gestures_ann_example2.png)
 
 *Разное кивание головой*
 
