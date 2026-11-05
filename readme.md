@@ -24,8 +24,9 @@
 
 #### Проект 1 модуля - [project.md](assessment/project.md). Срок сдачи - 15.11 (вс) в 23:59.
 
-#### 6. Конкордансеры. AntConc. [Практикум 6](practicum-antconc.md)
-Д/з: AntConc
+### 6. Web-корпуса. Aranea. Язык запросов CQL [Практикум 6](practicum-web-corpora.md)
+
+Д/з: [Поиск в Aranea и НКРЯ]()  
 
 
 
