@@ -22,9 +22,9 @@
 
 Д/з: [Расшифровка материала. Жесты](hw/hw5-elan-gestures.md)
 
-#### Проект 1 модуля - [project.md](assessment/project.md). Срок сдачи - 15.11 (вс) в 23:59.
+##### Проект 1 модуля - [project.md](assessment/project.md). Срок сдачи - 15.11 (вс) в 23:59.
 
-### 6. Web-корпуса. Aranea. Язык запросов CQL [Практикум 6](practicum-web-corpora.md)
+#### 6. Web-корпуса. Aranea. Язык запросов CQL [Практикум 6](practicum-web-corpora.md)
 
 Д/з: [Поиск в Aranea и НКРЯ]()  
 
