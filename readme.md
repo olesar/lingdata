@@ -26,7 +26,7 @@
 
 #### 6. Web-корпуса. Aranea. Язык запросов CQL [Практикум 6](practicum-web-corpora.md)
 
-Д/з: [Поиск в Aranea и НКРЯ]()  
+Д/з: [Поиск в Aranea и НКРЯ](https://forms.gle/7uf8uSmG7VDGLWJq9)  
 
 
 
