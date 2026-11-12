@@ -28,6 +28,13 @@
 
 Д/з: [Поиск в Aranea и НКРЯ](https://forms.gle/7uf8uSmG7VDGLWJq9)  
 
+#### 7. Конкордансеры. AntConc. [Практикум 7](practicum-antconc.md)
+Д/з: [AntConc](https://docs.google.com/forms/d/e/1FAIpQLSeJNTT8LOf8cbLuuU4NDjI2Hbcb2NdI7tKAikr2epulVygEQA/viewform?usp=sharing&ouid=100389563454022667310)
+
+
+
+#### Контрольная работа 
+[материалы для подготовки](assessment/test-drill.md) 
 
 
 ### Лекции
