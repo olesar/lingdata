@@ -79,7 +79,7 @@ Use raw files -- Add files
 #### Материал для работы на семинаре
 [зеркало со всеми материалами](https://disk.yandex.ru/d/QoZPtWuZ_raV1Q)  
 
-Анна Каренина: [plain text](https://drive.google.com/file/d/0B6-5pzCmb8MOVFBjajZJUHhNNmM/view?usp=sharing), [xml](https://drive.google.com/file/d/0B6-5pzCmb8MOTktNVlpjaDdOY2M/view?usp=sharing), [lemma_POS](https://disk.yandex.ru/d/kQ1dA7miJva6qw)  
+Анна Каренина: [plain text], [xml], [lemma_POS](https://disk.yandex.ru/d/kQ1dA7miJva6qw)  
 
 Война и Мир, т. 1: [plain text](https://github.com/olesar/lingdata/blob/gh-pages/data/TolstoyVojnaIMir1.txt)
 
