@@ -36,6 +36,7 @@
 #### Контрольная работа 
 [материалы для подготовки](assessment/test-drill.md) 
 
+[Экзамен](https://github.com/olesar/lingdata/blob/gh-pages/assessment/exam_project.md)
 
 ### Лекции
 
